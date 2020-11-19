@@ -1,1 +1,1 @@
-# awesome-things
+*references to awesome things*
