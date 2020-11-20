@@ -67,3 +67,4 @@
 * Cortex Prime SRD -- https://www.cortexrpg.com/compendium/explore-the-rules/
 * Opening the Dark SRD -- https://archive.org/details/OpeningTheDarkSRD
 * Open Legend SRD -- https://openlegendrpg.com/
+* Heroic Tales -- https://heroictalesrpg.com/
