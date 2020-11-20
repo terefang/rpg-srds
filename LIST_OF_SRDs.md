@@ -64,7 +64,11 @@
 * DicePunk SRD -- https://www.drivethrurpg.com/product/154330/DicePunk-SRD
 * SE:20 Core Rules SRD -- https://www.drivethrurpg.com/product/309470/SE20-Core-Rules-SRD
 * The Exodus System -- https://www.drivethrurpg.com/product/244141/The-Exodus-System
+* Exodus Sci-Fi -- https://www.drivethrurpg.com/product/248422/Exodus-System-SciFi-SRD
 * Cortex Prime SRD -- https://www.cortexrpg.com/compendium/explore-the-rules/
 * Opening the Dark SRD -- https://archive.org/details/OpeningTheDarkSRD
 * Open Legend SRD -- https://openlegendrpg.com/
 * Heroic Tales -- https://heroictalesrpg.com/
+* Ironsworn SRD -- https://docs.google.com/document/d/11ypqt6GfLuBhGDJuBGWKlHa-Ru48Tf3G_6zbrYKmXgY
+* Wretched & Alone SRD -- https://sealedlibrary.itch.io/wretched-alone-srd
+* Black Spear RPG System Resource Document -- https://www.drivethrurpg.com/product/320985/IronSpike--System-Resource-Document-and-Compatibility-License-for-Black-Spear
