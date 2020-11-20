@@ -72,3 +72,4 @@
 * Ironsworn SRD -- https://docs.google.com/document/d/11ypqt6GfLuBhGDJuBGWKlHa-Ru48Tf3G_6zbrYKmXgY
 * Wretched & Alone SRD -- https://sealedlibrary.itch.io/wretched-alone-srd
 * Black Spear RPG System Resource Document -- https://www.drivethrurpg.com/product/320985/IronSpike--System-Resource-Document-and-Compatibility-License-for-Black-Spear
+* Mark of the Odd (MOTO SRD) -- https://drive.google.com/drive/folders/1C3PgdyvIFf0YdDl-cXpsM_Fr_Vivw5Yj
