@@ -13,6 +13,7 @@
 * D20 SRD -- http://www.d20swsrd.com/
 * OSRIC Pocket SRD -- https://www.drivethrurpg.com/product/111392/OSRIC-Pocket-SRD-PDF
 * Open Adventure -- http://geekguild.com/openadventure/
+* SE:20 Core Rules SRD -- https://www.drivethrurpg.com/product/309470/SE20-Core-Rules-SRD
 
 ## d100 SRDs
 
@@ -62,7 +63,6 @@
 * Psi-punk SRD -- http://fudgesrd.opengamingnetwork.com/psi-punk/
 * After Sundown SRD -- https://github.com/thegamingden/after-sundown
 * DicePunk SRD -- https://www.drivethrurpg.com/product/154330/DicePunk-SRD
-* SE:20 Core Rules SRD -- https://www.drivethrurpg.com/product/309470/SE20-Core-Rules-SRD
 * The Exodus System -- https://www.drivethrurpg.com/product/244141/The-Exodus-System
 * Exodus Sci-Fi -- https://www.drivethrurpg.com/product/248422/Exodus-System-SciFi-SRD
 * Cortex Prime SRD -- https://www.cortexrpg.com/compendium/explore-the-rules/
