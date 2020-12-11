@@ -4,6 +4,7 @@
 * Pathfinder SRD -- http://www.d20pfsrd.com/
 * DnD 3.5 -- http://www.d20srd.org/index.htm
 * 13th Age SRD -- http://www.13thagesrd.com/
+* The Archmage Engine -- http://site.pelgranepress.com/index.php/the-archmage-engine-13th-age-srd/
 * D20 Modern SRD -- http://www.d20modernpf.com/
 * Microlite20 -- https://microlite20.org/
 * D20 Advanced -- https://d20advanced.fandom.com/wiki/D20_Advanced_Wiki
@@ -49,13 +50,15 @@
 * Trophy SRD -- https://trophyrpg.com/system/
 * 24XX SRD -- https://www.drivethrurpg.com/product/335307/24XX-SRD
 
-## Other SRDs
+## Fate/Fudge SRDs
 
 * Fate Core -- http://fate-srd.com/fate-core/basics
 * Fudge SRD -- http://www.sonic.net/~rknop/php/Omar/fudge/FudgeSRD/
+
+## Other SRDs
+
 * Drama System -- http://site.pelgranepress.com/index.php/dramasystem-srd/
 * Gumshoe -- http://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/
-* The Archmage Engine -- http://site.pelgranepress.com/index.php/the-archmage-engine-13th-age-srd/
 * Diaspora --  http://www.vsca.ca/Diaspora/diaspora-srd.html
 * Bulletproof Blues -- http://ogc.rpglibrary.org/index.php?title=Bulletproof_Blues
 * Tango RPG System -- https://sites.google.com/site/tangorpgsystem/
