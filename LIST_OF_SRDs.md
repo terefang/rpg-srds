@@ -15,6 +15,7 @@
 * OSRIC Pocket SRD -- https://www.drivethrurpg.com/product/111392/OSRIC-Pocket-SRD-PDF
 * Open Adventure -- http://geekguild.com/openadventure/
 * SE:20 Core Rules SRD -- https://www.drivethrurpg.com/product/309470/SE20-Core-Rules-SRD
+* Open Legend SRD -- https://openlegendrpg.com/
 
 ## d100 SRDs
 
@@ -24,6 +25,7 @@
 * RPG-Rules SRD -- https://github.com/coprolit/rpg-rules
 * Open Quest SRD -- https://openquestrpg.com/
 * Renaissance - D100 black powder SRD -- https://www.drivethrurpg.com/product/97426/Renaissance--D100-black-powder-SRD
+* Lore / Lore 100 SRD -- https://www.drivethrurpg.com/product/299747/Lore---Lore-100-SRDs
 * d100 Bare Metal Edition -- https://github.com/PeterRudin-Burgess/Bare-Metal-Edition
 
 ## d6 SRDs
@@ -35,7 +37,6 @@
 * WaRP SRD -- https://www.atlas-games.com/otelegacy#warped/
 * Six-Sided Fantasy Reference Document -- http://sycarion.com/static/sixsidedf.html
 * Year Zero Engine SRD -- http://frank-mitchell.com/rpg/year-zero-engine-ogl/
-* Lore / Lore 100 SRD -- https://www.drivethrurpg.com/product/299747/Lore---Lore-100-SRDs
 
 ## 2d6 SRDs
 
@@ -70,7 +71,6 @@
 * Exodus Sci-Fi -- https://www.drivethrurpg.com/product/248422/Exodus-System-SciFi-SRD
 * Cortex Prime SRD -- https://www.cortexrpg.com/compendium/explore-the-rules/
 * Opening the Dark SRD -- https://archive.org/details/OpeningTheDarkSRD
-* Open Legend SRD -- https://openlegendrpg.com/
 * Heroic Tales -- https://heroictalesrpg.com/
 * Ironsworn SRD -- https://docs.google.com/document/d/11ypqt6GfLuBhGDJuBGWKlHa-Ru48Tf3G_6zbrYKmXgY
 * Wretched & Alone SRD -- https://sealedlibrary.itch.io/wretched-alone-srd
