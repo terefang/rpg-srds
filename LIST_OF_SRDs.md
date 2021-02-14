@@ -15,7 +15,7 @@
 * OSRIC Pocket SRD -- https://www.drivethrurpg.com/product/111392/OSRIC-Pocket-SRD-PDF
 * Open Adventure -- http://geekguild.com/openadventure/
 * SE:20 Core Rules SRD -- https://www.drivethrurpg.com/product/309470/SE20-Core-Rules-SRD
-* Open Legend SRD -- https://openlegendrpg.com/
+* Open Legend SRD -- https://openlegendrpg.com/ and https://github.com/openlegend/core-rules
 
 ## d100 SRDs
 
@@ -24,6 +24,7 @@
 * QuestWorlds SRD -- https://www.chaosium.com/questworlds-system-reference-document/
 * RPG-Rules SRD -- https://github.com/coprolit/rpg-rules
 * Open Quest SRD -- https://openquestrpg.com/
+* Extract of Mongoose Legend SRD -- https://github.com/jeremy-edward-bauerle/LegendSRD
 * Renaissance - D100 black powder SRD -- https://www.drivethrurpg.com/product/97426/Renaissance--D100-black-powder-SRD
 * Lore / Lore 100 SRD -- https://www.drivethrurpg.com/product/299747/Lore---Lore-100-SRDs
 * d100 Bare Metal Edition -- https://github.com/PeterRudin-Burgess/Bare-Metal-Edition
