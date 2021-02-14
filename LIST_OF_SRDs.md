@@ -11,6 +11,7 @@
 * Low Fantasy -- https://lowfantasygaming.com/freepdf/
 * Mutants and Masterminds -- http://www.d20herosrd.com/
 * Swords & Wizardry -- http://www.swordsnwizardry.com/
+  (Lite) https://www.drivethrurpg.com/product_info.php?products_id=219477&
 * D20 SRD -- http://www.d20swsrd.com/
 * OSRIC Pocket SRD -- https://www.drivethrurpg.com/product/111392/OSRIC-Pocket-SRD-PDF
 * Open Adventure -- http://geekguild.com/openadventure/
