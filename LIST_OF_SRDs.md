@@ -23,6 +23,7 @@
 * BRP SRD -- https://www.drivethrurpg.com/product/307977/BRP-SRD--Editable
 * RuneQuest SRD -- http://b5quest.pbworks.com/f/MRQ-SRD.pdf
 * QuestWorlds SRD -- https://www.chaosium.com/questworlds-system-reference-document/
+* RetroQuest II SRD -- https://viletraveller.files.wordpress.com/2012/01/d100ii_srd_1_3.doc
 * RPG-Rules SRD -- https://github.com/coprolit/rpg-rules
 * Open Quest SRD -- https://openquestrpg.com/
 * Extract of Mongoose Legend SRD -- https://github.com/jeremy-edward-bauerle/LegendSRD
