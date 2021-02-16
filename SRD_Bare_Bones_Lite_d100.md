@@ -149,12 +149,19 @@ Weapons and Damage comes in four categories:
 The effect level result is added to the damage dice of the weapon.
 
 * Damage is done against the appropriate pool.
-* On a critical result damage dice are not rolled, 
+* If you sufferd more points than your pool, you enter coma.
+
+### Critical Damage
+
+* On a critical result damage dice are not rolled,
   but effect level directly applied against the crit threshold.
 
-* If you sufferd more points than your pool, you enter coma.
 * If you suffered more crit than your threshold, you are hovering on deaths door
   or suffer a permanent disability (gm decides).
+
+#### Optional Critical Damage Chart
+
+TBD. (use d66 ?)
 
 ### Damage and Armor
 
