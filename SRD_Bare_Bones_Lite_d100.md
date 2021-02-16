@@ -54,9 +54,9 @@ You need the following set of dice for each player/gm:
 
 #### Resource Pools
 
-* Health Pool = 2x To + Ph ; Crit Threshold = lowest of Ph, Sw, To
-* Stress Pool = 2x De + In ; Crit Threshold = lowest of In, Aw, De
-* Doubt Pool = 2x Tr + Pr ; Crit Threshold = lowest of Pr, Fe, Tr
+* Health Pool = 2x To + Ph ; Crit Threshold = lookup sum of Ph, Sw, To on #1 column
+* Stress Pool = 2x De + In ; Crit Threshold = lookup sum of In, Aw, De on #1 column
+* Doubt Pool = 2x Tr + Pr ; Crit Threshold = lookup sum of  Pr, Fe, Tr on #1 column
 
 ## Creating a Character
 
@@ -69,6 +69,8 @@ Finesse and Resilience, and then sum up for each attribute -- finally adding +1 
 single attribute.
 
 ### Ancestry, Upbringing and Culture
+
+TBD.
 
 Calculate derived scores
 
@@ -168,7 +170,7 @@ Medieval armor comes in four categories:
 You can move up to half your movement score, expending one action in combat.
 Each pace of movement takes one tick.
 
-## Healing and Recovery
+## Recovery and Healing 
 
 TBD.
 
