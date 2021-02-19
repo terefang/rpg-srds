@@ -30,6 +30,7 @@
 * Renaissance - D100 black powder SRD -- https://www.drivethrurpg.com/product/97426/Renaissance--D100-black-powder-SRD
 * Lore / Lore 100 SRD -- https://www.drivethrurpg.com/product/299747/Lore---Lore-100-SRDs
 * d100 Bare Metal Edition -- https://github.com/PeterRudin-Burgess/Bare-Metal-Edition
+* APOCTHULHU SRD -- https://www.drivethrurpg.com/product/338046/APOCTHULHU-System-Reference-Document
 
 ## d6 SRDs
 

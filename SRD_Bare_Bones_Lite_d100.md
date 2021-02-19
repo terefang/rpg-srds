@@ -183,6 +183,37 @@ TBD.
 
 ## Experience and Improvement
 
-TBD.
+| XP Awards                       | Score |
+|:--------------------------------|:-----:|
+| **Participation**               ||
+| Marginal                        |    0  |
+| Moderate                        |    2  |
+| Active                          |    5  |
+| Exceptional                     |    8  |
+| **Success**                     ||
+| Failure                         |    0  |
+| Failure, but Lessions learned   |    3  |
+| Mission Accomplished            |    5  |
+| More than you dreamed for       |    8  |
+| **Length**                      ||
+| Short                           |  x.5  |
+| Medium                          |  x 1  |
+| Long                            |  x 2  |
+
+**Improving Attributes**
+
+Improving an attribute by +1, costs the new Attribute Score x2 in XP
+
+*To improve an attribute from 12 to 13, 26 XP must be expended.*
+
+**A new Skill**
+
+Proficiency in a new skill, costs 5 XP.
+
+**Improving Skills**
+
+Improving a skill by +1, costs the tens of the new Skill Score in XP, with a minimum of one.
+
+*To improve a skill from 39 to 40, 4 XP must be expended.*
 
 ## TODO
