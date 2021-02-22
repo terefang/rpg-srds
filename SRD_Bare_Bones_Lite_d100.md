@@ -58,6 +58,50 @@ You need the following set of dice for each player/gm:
 * Stress Pool = 2x De + In ; Crit Threshold = lookup sum of In, Aw, De on #1 column
 * Doubt Pool = 2x Tr + Pr ; Crit Threshold = lookup sum of  Pr, Fe, Tr on #1 column
 
+### Skills
+
+#### Combat Skills
+
+* Archery (Ph+Sw+Sw)
+* Axes (Ph+Ph+Sw)
+* Bludgeons (Ph+Ph+Sw)
+* Blades (Ph+Ph+Sw)
+* Brawling (Ph+Ph+Sw)
+* Staves (Ph+Ph+Sw)
+* Thrown (Ph+Sw+Sw)
+
+#### Common Skills
+
+* Animal Ken (In+Pr+Fe)
+* Acrobatics (Ph+Sw+To)
+* Athletics (Ph+Ph+To)
+* Crafts (Ph+Sw+In)
+* Empathy (Aw+Fe+Fe)
+* Expression (Aw+De+Pr)
+* Intimidation (Pr+De+De)
+* Investigation (In+Aw+De)
+* Horsemanship (Sw+In+Fe)
+* Larceny (Sw+In+Aw)
+* Leadership (Pr+Pr+De)
+* Medicine (In+In+Aw)
+* Performance (Pr+Pr+In)
+* Socialize (Pr+Fe+Tr)
+* Persuasion (Pr+Pr+Fe)
+* Stealth (Sw+In+Aw)
+* Streetwise (In+Pr+Fe)
+* Subterfuge (In+Fe+Tr)
+* Survival (Ph+Sw+Aw)
+
+#### Advanced Skills
+
+* Academics (In+In+Aw)
+* Education (In+In+Aw)
+* Law (In+In+Aw)
+* Lores (In+In+Aw)
+* Politics (In+In+Aw)
+* Religion (In+In+Aw)
+* Stewardship (In+In+Aw)
+
 ## Creating a Character
 
 ### Attributes
@@ -67,6 +111,32 @@ Assign 100 points across your attributes, no attribute should be lower than 8 or
 Alternatively, you can distribute the values (3,4,5,6,7,8) among Body, Mind, Social, Power,
 Finesse and Resilience, and then sum up for each attribute -- finally adding +1 to one
 single attribute.
+
+**Example:** Po 6, Fi 5, Re 4, Bo 8, Mi 7, So 3, Tr +1
+
+* Physique (Ph) = 14
+* Swiftness (Sw) = 13
+* Toughness (To) = 12
+* Intelligence (In) = 13
+* Awareness (Aw) = 12
+* Determination (De) = 11
+* Presence (Pr) = 9
+* Fellowship (Fe) = 8
+* Tranquility (Tr) = 8
+
+**Passive Abilities:**
+
+* Reaction = 26
+* Stamina = 24
+* Perception = 24
+* Willpower = 22
+* Composure = 16
+
+**Secondary Scores:**
+
+* Initiative = 2d6
+* Movement = 7
+* Actions = 2
 
 ### Ancestry, Upbringing and Culture
 
