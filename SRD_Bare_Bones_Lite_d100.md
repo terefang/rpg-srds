@@ -214,7 +214,7 @@ If your parents where of nobility, you may choose from the list of Common/Advanc
 ### Culture
 
 * You receive proficiency in the dominant language of your culture.
-If you already have proficiency,
+If you already have proficiency in that language (from parents),
 take another language known by your parents,
 or take a language secondary to your culture,
 or add +5 points to your finishing touches.
