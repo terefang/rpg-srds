@@ -92,6 +92,8 @@ You need the following set of dice for each player/gm:
 * Subterfuge (In+Fe+Tr)
 * Survival (Ph+Sw+Aw)
 
+* Language (20+In+Aw)
+
 #### Advanced Skills
 
 * Academics (In+In+Aw)
@@ -101,6 +103,61 @@ You need the following set of dice for each player/gm:
 * Politics (In+In+Aw)
 * Religion (In+In+Aw)
 * Stewardship (In+In+Aw)
+
+### Ancestries
+
+*Parents:*
+
+* Choose +1 on two attributes, usually the highest attributes
+  your (genetic) parents had.
+
+*Species:*
+
+* Human -- add +1 to any three attributes, 
+  or choose three proficiencies, 
+  or any combination thereof.
+
+### Upbringings
+
+*Craft Occupations:*
+
+* Armorer      (Ph+Sw+Aw)
+* Bowyer       (Ph+Sw+Aw)
+* Miner        (Ph+To+Aw)
+* Stonemason   (Ph+Sw+Aw)
+* Tailor       (Sw+Aw+Fe)
+* Tanner       (Ph+Sw+Aw)
+* Weaponsmith  (Ph+Sw+Aw)
+* Woodworker   (Ph+Sw+Aw)
+
+*Rural Occupations:*
+
+* Farmer       (Ph+To+Aw)
+* Fisherman    (Ph+Sw+Aw)
+* Forester     (Ph+To+Aw)
+* Groom        (Ph+Sw+Aw)
+* Hunter       (Ph+Sw+Aw)
+* Teamster     (Ph+Sw+Aw)
+* Trapper      (Ph+Sw+Aw)
+
+*Naval Occupations:*
+
+* Sailor       (Ph+Sw+Aw)
+* Navigator    (Sw+Aw+In)
+
+*Urban Occupations:*
+
+* Cartographer (Sw+Aw+In)
+* Cook         (Sw+Aw+In)
+* Gambler      (Sw+Aw+In)
+* Jeweler      (Sw+Aw+In)
+* Scribe       (Sw+Aw+In)
+* Unskilled    (Ph+Sw+To)
+* Urchin       (Ph+Sw+Aw)
+
+### Cultures
+
+### Occupational Templates
 
 ## Creating a Character
 
@@ -114,39 +171,60 @@ single attribute.
 
 **Example:** Po 6, Fi 5, Re 4, Bo 8, Mi 7, So 3, Tr +1
 
-* Physique (Ph) = 14
-* Swiftness (Sw) = 13
+### Ancestry
+
+**Example:** Human: Ph +1, Sw +1, Aw +1, Horsemanship, Survival
+
+* Physique (Ph) = 15
+* Swiftness (Sw) = 14
 * Toughness (To) = 12
 * Intelligence (In) = 13
-* Awareness (Aw) = 12
+* Awareness (Aw) = 13
 * Determination (De) = 11
 * Presence (Pr) = 9
 * Fellowship (Fe) = 8
 * Tranquility (Tr) = 8
 
-**Passive Abilities:**
-
-* Reaction = 26
-* Stamina = 24
-* Perception = 24
-* Willpower = 22
-* Composure = 16
-
 **Secondary Scores:**
 
 * Initiative = 2d6
-* Movement = 7
+* Movement = 8
 * Actions = 2
 
-### Ancestry, Upbringing and Culture
+**Passive Abilities:**
 
-TBD.
+* Reaction = 28
+* Stamina = 24
+* Perception = 26
+* Willpower = 22
+* Composure = 16
 
-Calculate derived scores
+**Skills:**
 
-### Skills
+* Horsemanship = 37
+* Survival = 42
 
-You have X points to buy skills.
+### Upbringing
+
+* Choose one Occupation and one Combat/Common Skill at proficiency, based on the occupation(s) of you parents.
+If your parents where of nobility, you may choose from the list of Common/Advanced Skills instead.
+
+* You receive proficiency in the primary language of your dominant parent.
+
+### Culture
+
+* You receive proficiency in the dominant language of your culture.
+If you already have proficiency,
+take another language known by your parents,
+or take a language secondary to your culture,
+or add +5 points to your finishing touches.
+
+
+### Occupational Template
+
+### Finishing Touches
+
+You have 20 points to buy skills.
 
 * Proficiency (ie. base value) in a new skill costs 5 points.
 * each +5 improvement of a skill costs 2 points.
@@ -158,19 +236,29 @@ Roll d100 equal to or less than the threshold for success, higher is failure.
 
 | Difficulty   | Modifier | Time Taken             | Ranged Attacks |
 |:-------------|:--------:|:-----------------------|:---------------|
-| Very Easy    |   +60%   | Ten times normal time  |         |
-| Easy         |   +40%   | Five times normal time | Touch   |
-| Simple       |   +20%   | Double normal time     | Reach   |
+| Very Easy    |   +40%   | Ten times normal time  |         |
+| Easy         |   +20%   | Five times normal time | Touch   |
+| Simple       |   +10%   | Double normal time     | Reach   |
 | Routine      |    +0%   | Normal time            | Near    |
-| Difficult    |   –20%   | --                     | Far     |
-| Hard         |   –40%   | Half normal time       | Long    |
-| Very Hard    |   –60%   | --                     | Extreme |
-| Formidable   |   –80%   | Almost instantly       |         |
+| Difficult    |   –10%   | --                     | Far     |
+| Hard         |   –20%   | Half normal time       | Long    |
+| Very Hard    |   –40%   | --                     | Extreme |
+| Formidable   |   –60%   | Almost instantly       |         |
 
 * A pair (11,22,...,99,00) is a critical indicator.
 * A "00" is always a critical fumble.
 * if successful, the positive effect level (if needed) is equal to the "tens" of the roll.
 * if unsuccessful, the negative effect level (if needed) is equal to the "tens" of the roll minus the "tens" of the threshold.
+
+### Rolling at Advantage or Disadvantage
+
+Some abilities or situations (the gm has the final say), allows making the test at Advantage or Disadvantge.
+
+Multiple cases of Advantage or Disadvantage eleminate each other until only Advantage, Disadvantage or none remain.
+
+* Advantage -- after the roll the highest die is taken as the ones and the lowest die as the tens value.
+* Disadvantage -- after the roll the lowest die is taken as the ones and the highest die as the tens value.
+
 
 ### Contests
 
