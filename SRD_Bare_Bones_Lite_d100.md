@@ -346,21 +346,30 @@ You have 25 points for finishing touches.
 The test threshold is the skill value plus difficulty modifier(s).
 Roll d100 equal to or less than the threshold for success, higher is failure.
 
-| Difficulty   | Modifier | Time Taken             | Ranged Attacks |
-|:-------------|:--------:|:-----------------------|:---------------|
-| Very Easy    |   +40%   | Ten times normal time  |         |
-| Easy         |   +20%   | Five times normal time | Touch   |
-| Simple       |   +10%   | Double normal time     | Reach   |
-| Routine      |    +0%   | Normal time            | Near    |
-| Difficult    |   –10%   | --                     | Far     |
-| Hard         |   –20%   | Half normal time       | Long    |
-| Very Hard    |   –40%   | --                     | Extreme |
-| Formidable   |   –60%   | Almost instantly       |         |
+| Difficulty   | Modifier | Time Taken             | Ranged Attacks | Alternative Difficulty |
+|:-------------|:--------:|:-----------------------|:---------------|:----:|
+| Very Easy    |   +40%   | Ten times normal time  |         | -3 |
+| Easy         |   +20%   | Five times normal time | Touch   | -2 |
+| Simple       |   +10%   | Double normal time     | Reach   | -1 |
+| Routine      |    +0%   | Normal time            | Near    |  0 |
+| Difficult    |   –10%   | --                     | Far     |  1 |
+| Hard         |   –20%   | Half normal time       | Long    |  2 |
+| Very Hard    |   –40%   | --                     | Extreme |  3 |
+| Formidable   |   –60%   | Almost instantly       |         |  4 |
 
 * A pair (11,22,...,99,00) is a critical indicator.
 * A "00" is always a critical fumble.
 * if successful, the positive effect level (if needed) is equal to the "tens" of the roll.
 * if unsuccessful, the negative effect level (if needed) is equal to the "ones" of the roll.
+
+### Alternative Difficulty (Optional Rule)
+
+The test threshold is the skill value. Roll d100 and establish an effect level as per normal rules.
+Score at least an effect level equal or greater than the alternative difficulty for success.
+
+The final effect level is the difference from the alternative difficulty.
+
+*Example:* the pc rolls and scores an effect level of 4 for a Difficult task -- the final effect level is 3 and the task is successful.
 
 ### Rolling at Advantage or Disadvantage
 
