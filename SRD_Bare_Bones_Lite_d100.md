@@ -308,6 +308,12 @@ single attribute.
 * Willpower = 22
 * Composure = 16
 
+**Resource Pools:**
+
+* Health Pool = 39 ; Crit Threshold = 9
+* Stress Pool = 35 ; Crit Threshold = 9
+* Doubt Pool = 25 ; Crit Threshold = 7
+
 **Skills:**
 
 * Horsemanship = 37
@@ -428,7 +434,7 @@ Weapons and Damage comes in four categories:
 The effect level result is added to the damage dice of the weapon.
 
 * Damage is done against the appropriate pool.
-* If you sufferd more points than your pool, you enter coma.
+* If you suffered more points than your pool, you enter coma.
 
 ### Critical Damage
 
@@ -438,7 +444,13 @@ The effect level result is added to the damage dice of the weapon.
 * If you suffered more crit than your threshold, you are hovering on deaths door
   or suffer a permanent disability (gm decides).
 
-#### Optional Critical Damage Chart
+* any overflow crit converts to aggravated crit.
+  
+* Each crit suffered adds a -10% to skill rolls,
+  or reduces scored effect levels 1:1
+  in the relevant category (GM decides).
+
+#### Critical Damage Chart (Optional Rule)
 
 TBD. (use d66 ?)
 
@@ -458,7 +470,27 @@ Each pace of movement takes one tick.
 
 ## Recovery and Healing 
 
-TBD.
+### Recovery Rates
+
+*Short Rest* -- is a period of at least 2 hours, during which no other activity is made than 
+eating, drinking, reading, and tending wounds.
+
+* Health Pool -- a number of points equal to (To) are recovered
+* Stress Pool -- a number of points equal to (De) are recovered
+* Doubt Pool -- a number of points equal to (Tr) are recovered
+
+*Long Rest* -- is an extended period of at least 8 hours, during which only sleep or light activity is performed (as per short rest), 
+or standing watch max 1 hour. If the rest is interrupted, it is needed to begin anew for any benefit.
+
+* Health Pool -- a number of points equal to (To+Ph) are recovered
+* Stress Pool -- a number of points equal to (De+In) are recovered
+* Doubt Pool -- a number of points equal to (Tr+Pr) are recovered
+
+### Healing
+
+One point of non-aggravated crit is recovered per day in each Category.
+
+Aggravated crits and penalties need special/magical treatment.
 
 ## Experience and Improvement
 
@@ -495,4 +527,6 @@ Improving a skill by +1, costs the tens of the new Skill Score in XP, with a min
 
 *To improve a skill from 39 to 40, 4 XP must be expended.*
 
-## TODO
+## Appendix
+
+TODO
