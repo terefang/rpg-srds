@@ -75,7 +75,7 @@ You need the following set of dice for each player/gm:
 * Animal Ken (In+Pr+Fe)
 * Acrobatics (Ph+Sw+To)
 * Athletics (Ph+Ph+To)
-* Crafts (Ph+Sw+In)
+* Craft, Specific (Ph+Sw+In)
 * Empathy (Aw+Fe+Fe)
 * Expression (Aw+De+Pr)
 * Intimidation (Pr+De+De)
@@ -92,16 +92,18 @@ You need the following set of dice for each player/gm:
 * Subterfuge (In+Fe+Tr)
 * Survival (Ph+Sw+Aw)
 
-* Language (20+In+Aw)
+* Language, Specific (20+In+Aw)
+
+* Knowledge, Specific (In+In+Aw)
 
 #### Advanced Skills
 
 * Academics (In+In+Aw)
 * Education (In+In+Aw)
 * Law (In+In+Aw)
-* Lores (In+In+Aw)
+* Lore, Specific (In+In+Aw)
 * Politics (In+In+Aw)
-* Religion (In+In+Aw)
+* Religion, Specific (In+In+Aw)
 * Stewardship (In+In+Aw)
 
 ### Ancestries
@@ -119,7 +121,10 @@ You need the following set of dice for each player/gm:
 
 ### Upbringings
 
-*Craft Occupations:*
+The listed vocations are just a sample list provided. 
+The GM should adjust this list or invent new to fit his game world.
+
+*Craft Vocations:*
 
 * Armorer      (Ph+Sw+Aw)
 * Bowyer       (Ph+Sw+Aw)
@@ -130,7 +135,7 @@ You need the following set of dice for each player/gm:
 * Weaponsmith  (Ph+Sw+Aw)
 * Woodworker   (Ph+Sw+Aw)
 
-*Rural Occupations:*
+*Rural Vocations:*
 
 * Farmer       (Ph+To+Aw)
 * Fisherman    (Ph+Sw+Aw)
@@ -140,12 +145,12 @@ You need the following set of dice for each player/gm:
 * Teamster     (Ph+Sw+Aw)
 * Trapper      (Ph+Sw+Aw)
 
-*Naval Occupations:*
+*Naval Vocations:*
 
 * Sailor       (Ph+Sw+Aw)
 * Navigator    (Sw+Aw+In)
 
-*Urban Occupations:*
+*Urban Vocations:*
 
 * Cartographer (Sw+Aw+In)
 * Cook         (Sw+Aw+In)
@@ -156,6 +161,107 @@ You need the following set of dice for each player/gm:
 * Urchin       (Ph+Sw+Aw)
 
 ### Cultures
+
+The following skills are cross-cultural picks:
+
+* Knowledge, Local
+* Language, *Culture*
+* Language, Foreign
+* Performance
+
+#### Cosmopolitan
+
+People from this culture come from environments that see all types of life and influence.
+
+* Athletics
+* Education
+* Knowledge, Foreign
+* Socialize
+* Streetwise
+
+#### Court
+
+Power, Politics and hidden agendas rule the Court.
+
+* Academics
+* Horsemanship
+* Knowledge, Nobility
+* Leadership
+* Politics
+
+#### Gilded
+
+Although the coin rules the guild, it create social and/or 
+special benefits for its (paying) members
+
+* Education
+* Knowledge, Guild
+* Persuasion
+* Socialize
+* Stewardship
+
+#### Harsh/Savage
+
+Harsh environments breed tough inhabitants. These are either hostile or fringe environments.
+
+* Animal Ken
+* Athletics
+* Intimidation
+* Stealth
+* Survival
+
+#### Marine
+
+The marine culture is one where the inhabitants live mostly on water or under the oceans.
+
+* Athletics
+* Acrobatics
+* Knowledge, Navigation
+* Socialize
+* Survival
+
+#### Nomadic
+
+Nomads have no home, they are born and bred on the move, and for them, life in the saddle is the norm.
+
+* Athletics
+* Knowledge, Orienteering
+* Larceny
+* Socialize
+* Survival
+
+#### Provincial
+
+Provincial and rural environments are often a simple life.
+
+* Horsemanship
+* Knowledge, Orienteering
+* Medicine
+* Socialize
+* Survival
+
+#### Reaver/Raider
+
+Reaver culture is based on raiding and piracy.
+This is the most violent of cultures.
+
+* Horsemanship
+* Intimidation
+* Persuasion
+* Stealth
+* Survival
+
+#### Subterranean
+
+Subterranean culture life below the surface, 
+thriving communities spread out and grow 
+around the richest resources.
+
+* Animal Ken
+* Knowledge, Spelunking
+* Medicine
+* Larceny
+* Survival
 
 ### Occupational Templates
 
@@ -204,14 +310,12 @@ single attribute.
 * Horsemanship = 37
 * Survival = 42
 
-### Upbringing
+### Upbringing & Culture
 
-* Choose one Occupation and one Combat/Common Skill at proficiency, based on the occupation(s) of you parents.
+* Choose one Vocation and one Combat/Common Skill at proficiency, based on the vocation(s) of your parents.
 If your parents where of nobility, you may choose from the list of Common/Advanced Skills instead.
 
 * You receive proficiency in the primary language of your dominant parent.
-
-### Culture
 
 * You receive proficiency in the dominant language of your culture.
 If you already have proficiency in that language (from parents),
@@ -219,15 +323,20 @@ take another language known by your parents,
 or take a language secondary to your culture,
 or add +5 points to your finishing touches.
 
+* pick 5 proficiencies from Cultural Skills
 
-### Occupational Template
+* spread +25 across proficient Cultural Skills
 
-### Finishing Touches
+### Occupational Template & Finishing Touches
 
-You have 20 points to buy skills.
+You have 75 points for occupational abilities,
+any left over points (max. 10) are added to finishing touches.
+
+You have 25 points for finishing touches.
 
 * Proficiency (ie. base value) in a new skill costs 5 points.
 * each +5 improvement of a skill costs 2 points.
+* special abilities cost their indicated rating.
 
 ## Making Tests
 
