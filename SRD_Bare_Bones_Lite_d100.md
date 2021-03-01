@@ -42,8 +42,9 @@ You need the following set of dice for each player/gm:
 
 * Reaction = 2x Sw
 * Stamina = 2x To
-* Perception = 2x Aw
+* Alertness = 2x Aw
 * Willpower = 2x De
+* Empathy = 2x Fe
 * Composure = 2x Tr
 
 #### Secondary Scores
@@ -70,13 +71,22 @@ You need the following set of dice for each player/gm:
 * Staves (Ph+Ph+Sw)
 * Thrown (Ph+Sw+Sw)
 
+*Optional Weapon Skill Spread:*
+
+* Ranged (Ph+Sw+Sw)
+* Melee (Ph+Ph+Sw)
+* Unarmed (Ph+Ph+Sw)
+
+##### Fighting Styles (Optional Rule)
+
+TBD.
+
 #### Common Skills
 
 * Animal Ken (In+Pr+Fe)
 * Acrobatics (Ph+Sw+To)
 * Athletics (Ph+Ph+To)
 * Craft, Specific (Ph+Sw+In)
-* Empathy (Aw+Fe+Fe)
 * Expression (Aw+De+Pr)
 * Intimidation (Pr+De+De)
 * Investigation (In+Aw+De)
@@ -84,6 +94,7 @@ You need the following set of dice for each player/gm:
 * Larceny (Sw+In+Aw)
 * Leadership (Pr+Pr+De)
 * Medicine (In+In+Aw)
+* Perception (In+Aw+Aw)
 * Performance (Pr+Pr+In)
 * Socialize (Pr+Fe+Tr)
 * Persuasion (Pr+Pr+Fe)
@@ -458,9 +469,9 @@ TBD. (use d66 ?)
 
 Medieval armor comes in four categories:
 
-* Light Protection -- 1 EL subtracted from damage, -1 Tick in Action Order 
-* Medium Protection -- 2 EL subtracted from damage, -2 Ticks in Action Order
-* Heavy Protection -- 3 EL subtracted from damage, -4 Ticks in Action Order
+* Light Protection -- 1d subtracted from damage, -1 Tick in Action Order 
+* Medium Protection -- 2d subtracted from damage, -3 Ticks in Action Order
+* Heavy Protection -- 3d subtracted from damage, -6 Ticks in Action Order, max Actions 2 per round.
 * Magical Protection -- see specific description
 
 ### Movement
@@ -479,6 +490,8 @@ eating, drinking, reading, and tending wounds.
 * Stress Pool -- a number of points equal to (De) are recovered
 * Doubt Pool -- a number of points equal to (Tr) are recovered
 
+You can take a max of 2 short rests per day.
+
 *Long Rest* -- is an extended period of at least 8 hours, during which only sleep or light activity is performed (as per short rest), 
 or standing watch max 1 hour. If the rest is interrupted, it is needed to begin anew for any benefit.
 
@@ -486,11 +499,10 @@ or standing watch max 1 hour. If the rest is interrupted, it is needed to begin 
 * Stress Pool -- a number of points equal to (De+In) are recovered
 * Doubt Pool -- a number of points equal to (Tr+Pr) are recovered
 
-### Healing
+One point of non-aggravated crit is recovered per Long Rest in each Category.
 
-One point of non-aggravated crit is recovered per day in each Category.
+### Assisted Healing
 
-Aggravated crits and penalties need special/magical treatment.
 
 ## Experience and Improvement
 
@@ -503,7 +515,7 @@ Aggravated crits and penalties need special/magical treatment.
 | Exceptional                     |    8  |
 | **Success**                     ||
 | Failure                         |    0  |
-| Failure, but Lessions learned   |    3  |
+| Failure, but Lessons learned    |    3  |
 | Mission Accomplished            |    5  |
 | More than you dreamed for       |    8  |
 | **Length**                      ||
