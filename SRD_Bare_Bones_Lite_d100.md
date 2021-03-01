@@ -157,6 +157,9 @@ The GM should adjust this list or invent new to fit his game world.
 * Gambler      (Sw+Aw+In)
 * Jeweler      (Sw+Aw+In)
 * Scribe       (Sw+Aw+In)
+
+*Street Vocations:*
+
 * Unskilled    (Ph+Sw+To)
 * Urchin       (Ph+Sw+Aw)
 
