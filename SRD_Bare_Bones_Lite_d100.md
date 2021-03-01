@@ -360,7 +360,7 @@ Roll d100 equal to or less than the threshold for success, higher is failure.
 * A pair (11,22,...,99,00) is a critical indicator.
 * A "00" is always a critical fumble.
 * if successful, the positive effect level (if needed) is equal to the "tens" of the roll.
-* if unsuccessful, the negative effect level (if needed) is equal to the "tens" of the roll minus the "tens" of the threshold.
+* if unsuccessful, the negative effect level (if needed) is equal to the "ones" of the roll.
 
 ### Rolling at Advantage or Disadvantage
 
@@ -368,7 +368,7 @@ Some abilities or situations (the gm has the final say), allows making the test 
 
 Multiple cases of Advantage or Disadvantage eleminate each other until only Advantage, Disadvantage or none remain.
 
-* Advantage -- after the roll the highest die is taken as the ones and the lowest die as the tens value.
+* Advantage -- after the roll, you may assign the highest and lowest die value to the ones and tens as you see fit.
 * Disadvantage -- after the roll the lowest die is taken as the ones and the highest die as the tens value.
 
 
