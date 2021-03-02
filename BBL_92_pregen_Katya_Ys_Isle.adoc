@@ -1,3 +1,11 @@
 == Katya Ys Isle
 
 Female, Knight
+
+=== Development
+
+* Attributes --
+* Ancestry --
+* Upbringing --
+* Culture -- Court
+* Occupation -- Knight
