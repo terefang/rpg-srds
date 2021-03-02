@@ -485,7 +485,7 @@ Medieval armor comes in four categories:
 
 * Light Protection -- 1d subtracted from damage, -1 Tick in Action Order 
 * Medium Protection -- 2d subtracted from damage, -3 Ticks in Action Order
-* Heavy Protection -- 3d subtracted from damage, -6 Ticks in Action Order, max Actions 2 per round.
+* Heavy Protection -- 3d subtracted from damage, -5 Ticks in Action Order, max Actions 2 per round.
 * Magical Protection -- see specific description
 
 ### Movement
@@ -517,6 +517,7 @@ One point of non-aggravated crit is recovered per Long Rest in each Category.
 
 ### Assisted Healing
 
+TODO
 
 ## Experience and Improvement
 
