@@ -1,6 +1,6 @@
 == Dario Anselmi
 
-Binary, Bi, Male Scout
+Male, Scout
 
 === Development
 
