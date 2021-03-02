@@ -36,22 +36,28 @@ You need the following set of dice for each player/gm:
 * Fellowship (Fe) -- Social Finesse
 * Tranquility (Tr) -- Social Resilience
 
+Assign 100 points across your attributes, no attribute should be lower than 8 or higher than 18.
+
+Alternatively, you can distribute the values (3,4,5,6,7,8) among Body, Mind, Social, Power,
+Finesse and Resilience, and then sum up for each attribute -- finally adding +1 to one
+single attribute.
+
 ### Derived Statistics
 
 #### Passive Abilities
 
-* Reaction = 2x Sw
-* Stamina = 2x To
-* Alertness = 2x Aw
-* Willpower = 2x De
-* Empathy = 2x Fe
-* Composure = 2x Tr
+* Reaction (Re) = 2x Sw
+* Stamina (St) = 2x To
+* Alertness (Al) = 2x Aw
+* Willpower (Wi) = 2x De
+* Empathy (Em) = 2x Fe
+* Composure (Co) = 2x Tr
 
 #### Secondary Scores
 
-* Initiative = lookup the higher of Sw and Aw on Dice column
-* Movement = lookup the sum of Sw and Ph on #1 column
-* Actions = lookup the lower of Sw and Aw on #2 column
+* Initiative (Ini) = lookup the higher of Sw and Aw on Dice column
+* Movement (Mov) = lookup the sum of Sw and Ph on #1 column
+* Actions (Act) = lookup the lower of Sw and Aw on #2 column
 
 #### Resource Pools
 
@@ -74,7 +80,8 @@ You need the following set of dice for each player/gm:
 *Optional Weapon Skill Spread:*
 
 * Ranged (Ph+Sw+Sw)
-* Melee (Ph+Ph+Sw)
+* Melee, light (Ph+Ph+Sw)
+* Melee, heavy (Ph+Ph+Sw)
 * Unarmed (Ph+Ph+Sw)
 
 ##### Fighting Styles (Optional Rule)
@@ -135,6 +142,11 @@ TBD.
 The listed vocations are just a sample list provided. 
 The GM should adjust this list or invent new to fit his game world.
 
+* Choose one Vocation and one Combat/Common Skill at proficiency, based on the vocation(s) of your parents.
+  If your parents where of nobility, you may choose from the list of Common/Advanced Skills instead.
+
+* You receive proficiency in the primary language of your dominant parent.
+
 *Craft Vocations:*
 
 * Armorer      (Ph+Sw+Aw)
@@ -176,6 +188,16 @@ The GM should adjust this list or invent new to fit his game world.
 
 ### Cultures
 
+* You receive proficiency in the dominant language of your culture.
+  If you already have proficiency in that language (from parents),
+  take another language known by your parents,
+  or take a language secondary to your culture,
+  or add +5 points to your finishing touches.
+
+* pick 5 proficiencies from Cultural Skills
+
+* spread +25 across proficient Cultural & Upgringing Skills
+
 The following skills are cross-cultural picks:
 
 * Knowledge, Local
@@ -183,7 +205,7 @@ The following skills are cross-cultural picks:
 * Language, Foreign
 * Performance
 
-#### Cosmopolitan
+#### Cosmopolitan/Cityfolk
 
 People from this culture come from environments that see all types of life and influence.
 
@@ -203,7 +225,7 @@ Power, Politics and hidden agendas rule the Court.
 * Leadership
 * Politics
 
-#### Gilded
+#### Gilded/Mercantile
 
 Although the coin rules the guild, it create social and/or 
 special benefits for its (paying) members
@@ -279,84 +301,76 @@ around the richest resources.
 
 ### Occupational Templates
 
-## Creating a Character
-
-### Attributes
-
-Assign 100 points across your attributes, no attribute should be lower than 8 or higher than 18.
-
-Alternatively, you can distribute the values (3,4,5,6,7,8) among Body, Mind, Social, Power,
-Finesse and Resilience, and then sum up for each attribute -- finally adding +1 to one
-single attribute.
-
-**Example:** Po 6, Fi 5, Re 4, Bo 8, Mi 7, So 3, Tr +1
-
-### Ancestry
-
-**Example:** Human: Ph +1, Sw +1, Aw +1, Horsemanship, Survival
-
-* Physique (Ph) = 15
-* Swiftness (Sw) = 14
-* Toughness (To) = 12
-* Intelligence (In) = 13
-* Awareness (Aw) = 13
-* Determination (De) = 11
-* Presence (Pr) = 9
-* Fellowship (Fe) = 8
-* Tranquility (Tr) = 8
-
-**Secondary Scores:**
-
-* Initiative = 2d6
-* Movement = 8
-* Actions = 2
-
-**Passive Abilities:**
-
-* Reaction = 28
-* Stamina = 24
-* Perception = 26
-* Willpower = 22
-* Composure = 16
-
-**Resource Pools:**
-
-* Health Pool = 39 ; Crit Threshold = 9
-* Stress Pool = 35 ; Crit Threshold = 9
-* Doubt Pool = 25 ; Crit Threshold = 7
-
-**Skills:**
-
-* Horsemanship = 37
-* Survival = 42
-
-### Upbringing & Culture
-
-* Choose one Vocation and one Combat/Common Skill at proficiency, based on the vocation(s) of your parents.
-If your parents where of nobility, you may choose from the list of Common/Advanced Skills instead.
-
-* You receive proficiency in the primary language of your dominant parent.
-
-* You receive proficiency in the dominant language of your culture.
-If you already have proficiency in that language (from parents),
-take another language known by your parents,
-or take a language secondary to your culture,
-or add +5 points to your finishing touches.
-
-* pick 5 proficiencies from Cultural Skills
-
-* spread +25 across proficient Cultural Skills
-
-### Occupational Template & Finishing Touches
-
 You have 75 points for occupational abilities,
 any left over points (max. 10) are added to finishing touches.
+
+* Proficiency (ie. base value) in a new skill costs 5 points.
+* each +5 improvement of a skill costs 2 points.
+* special abilities cost their indicated rating.
+
+#### Clerical Occupations
+
+* Priest
+* Crusader/Champion
+* Druid
+* Shaman
+
+#### Roguish Occupations
+
+* Rogue
+* Assassin
+* Bandit
+* Bard
+* Bounty Hunter
+
+#### Men-At-Arms Occupations
+
+* Warrior, Heavy Weapons - Merc/Soldier
+* Warrior, Light Weapons - Cavalier
+* Archer
+* Barbarian
+* Commander
+* Knight
+* Martial Artist
+* Paladin
+
+##### Ranger/Scout
+
+* Ranged (Ph+Sw+Sw)
+
+* Animal Ken (In+Pr+Fe)
+* Athletics (Ph+Ph+To)
+* Investigation (In+Aw+De)
+* Horsemanship (Sw+In+Fe)
+* Medicine (In+In+Aw)
+* Perception (In+Aw+Aw)
+* Stealth (Sw+In+Aw)
+* Survival (Ph+Sw+Aw)
+
+#### Magical Occupations
+
+* Magician
+  * Sorcerer (Empowered)
+  * Wizard (Studied)
+* Alchemist
+* Witch/Warlock (Pact)
+
+#### Misc Occupations
+
+* Apothecary
+* Craftsman
+* Engineer
+* Merchant
+* Mariner
+* Noble
+
+### Finishing Touches
 
 You have 25 points for finishing touches.
 
 * Proficiency (ie. base value) in a new skill costs 5 points.
 * each +5 improvement of a skill costs 2 points.
-* special abilities cost their indicated rating.
+* mertis, flaws, specialties and abilities cost their indicated rating.
 
 ## Making Tests
 

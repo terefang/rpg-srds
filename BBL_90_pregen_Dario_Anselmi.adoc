@@ -1,0 +1,137 @@
+== Dario Anselmi
+
+Binary, Bi, Male Scout
+
+=== Development
+
+* Attributes -- Po 6, Fi 5, Re 4, Bo 8, Mi 7, So 3, Tr +1
+* Ancestry -- Human: Ph +1, Sw +1, Aw +1, Horsemanship, Survival
+* Upbringing -- Vocation: Hunter, Melee: Light, Language: Anglaman
+* Culture -- Provincial
+* Occupation -- Scout
+
+==== Attributes
+
+* Physique (Ph) = 15
+* Swiftness (Sw) = 14
+* Toughness (To) = 12
+* Intelligence (In) = 13
+* Awareness (Aw) = 13
+* Determination (De) = 11
+* Presence (Pr) = 9
+* Fellowship (Fe) = 8
+* Tranquility (Tr) = 8
+
+==== Secondary Scores
+
+* Initiative = 2d6
+* Movement = 8
+* Actions = 2
+
+==== Passive Abilities
+
+* Reaction = 28
+* Stamina = 24
+* Alertness = 26
+* Willpower = 22
+* Empathy = 16
+* Composure = 16
+
+==== Resource Pools
+
+* Health Pool = 39 ; Crit Threshold = 9
+* Stress Pool = 35 ; Crit Threshold = 9
+* Doubt Pool = 25 ; Crit Threshold = 7
+
+==== Basic Skills
+
+* Horsemanship = 37
+* Survival = 42
+
+==== Upgringing
+
+* Vocation: Hunter = 41
+* Melee, Light = 44
+* Language, Anglaman = 46
+
+==== Culture
+
+* Language, Common = 46
+* Knowledge, Local = 39
+* Knowledge, Orienteering = 39
+* Medicine = 39
+* Performance = 35
+* Socialize = 25
+
+*updates:*
+
+* Survival = 42(+5) = 47
+* Knowledge, Orienteering = 39(+5) = 44
+* Vocation: Hunter = 41(+5) = 46
+* Melee, Light = 44(+5) = 49
+* Language, Anglaman = 46(+5) = 51
+
+==== Occupational Skills
+
+* Ranged = 41(+25) = 66
+
+* Athletics = 42(+25) = 67
+* Investigation = 37(+25) = 62
+* Perception = 39(+25) = 64
+* Stealth = 40(+25) = 65
+
+==== Finishing Touches
+
+* Education = 39
+
+* Survival = 47(+5) = 52
+* Knowledge, Orienteering = 44(+5) = 49
+* Vocation: Hunter = 46(+5) = 51
+* Melee, Light = 49(+5) = 54
+* Language, Anglaman = 51(+5) = 56
+* Ranged = 66(+5) = 71
+* Athletics = 67(+5) = 72
+* Investigation = 62(+5) = 67
+* Perception = 64(+5) = 69
+* Stealth = 65(+5) = 70
+
+==== Final
+
+*Attributes*
+
+[cols=".^7,^.^3,.^7,^.^3,.^7,^.^3"]
+|===
+| Physique (Ph)      | 15 |          |     | Initiative | 2d6
+| Swiftness (Sw)     | 14 | Reaction | 28  | Actions | 2
+| Toughness (To)     | 12 | Stamina  | 24  | Movement | 8
+| Intelligence (In)  | 13 |           |    | Health Pool | 39
+| Awareness (Aw)     | 13 | Alertness | 26 | Crit Threshold | 9
+| Determination (De) | 11 | Willpower | 22 | Stress Pool | 35
+| Presence (Pr)      | 9  |           |    | Crit Threshold | 9
+| Fellowship (Fe)    | 8  | Empathy   | 16 | Doubt Pool | 25
+| Tranquility (Tr)   | 8  | Composure | 16 | Crit Threshold | 7
+|===
+
+*Skills*
+
+[cols=".^7,^.^3,.^7,^.^3,.^7,^.^3"]
+|===
+| Athletics | 72
+| Education | 39
+| Horsemanship | 37
+| Investigation | 67
+| Knowledge, Local | 39
+| Knowledge, Orienteering | 49
+| Language, Anglaman | 56
+| Language, Common | 46
+| Medicine | 39
+| Melee, Light | 54
+| Perception | 69
+| Performance | 35
+| Ranged | 71
+| Socialize | 25
+| Stealth | 70
+| Survival | 52
+| Vocation: Hunter | 51
+| |
+|===
