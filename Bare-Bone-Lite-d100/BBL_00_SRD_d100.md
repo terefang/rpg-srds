@@ -461,6 +461,32 @@ The effect level result is added to the damage dice of the weapon.
 * Damage is done against the appropriate pool.
 * If you suffered more points than your pool, you enter coma.
 
+### Damage Types
+
+* Burning/Fire/Heat
+* Corrosive/Acid
+* Crushing/Grapple/Entangle
+* Energy/Blaster/Laser
+* Freezing/Cold/Ice
+* Necroti/Unholyc/Disruption
+* Piercing/Puncture
+* Poison
+* Psychic/Stress
+* Radiant/Holy
+* Radiation
+* Shocking/Stun/Lightning
+* Slashing
+* Sonic/Thunder
+
+### Immunity, Vulnerability, etc.
+
+* Immunity -- means you take no damage from the damage type.
+* Resistance -- means you only take half damage from the damage type.
+* Vulnerability -- means you take double damage from the damage type.
+
+* Protection (X) -- means you ignore X effect level (or damage dice) from the damage type.
+* Susceptibility (X) -- means you actually add X effect level (or damage dice) from the damage type.
+
 ### Critical Damage
 
 * On a critical result damage dice are not rolled,
