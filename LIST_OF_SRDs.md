@@ -63,6 +63,7 @@
 
 ## Other SRDs
 
+* Action! System OGL Core -- http://www.sycarion.com/rpg-downloads/action-system-files/
 * Drama System -- http://site.pelgranepress.com/index.php/dramasystem-srd/
 * Gumshoe -- http://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/
 * Diaspora --  http://www.vsca.ca/Diaspora/diaspora-srd.html

@@ -13,16 +13,26 @@ You need the following set of dice for each player/gm:
 
 | Score | #1  | #2  | Dice  |
 |:-----:|:---:|:---:|:-----:|
-|    1  |   1 |  0  | 1d6   |
-|  2-3  |   2 |  1  | 1d6+1 |
-|  4-6  |   3 |  1  | 1d6+2 |
-|  7-10 |   4 |  2  | 1d6+3 |
-| 11-15 |   5 |  2  | 2d6   |
-| 16-21 |   6 |  3  | 2d6+1 |
-| 22-28 |   7 |  3  | 2d6+2 |
-| 29-36 |   8 |  4  | 2d6+3 |
-| 37-45 |   9 |  4  | 3d6   |
-| 46-55 |  10 |  5  | 3d6+1 |
+|    1  |   1 |  0  | 1d6-1 |
+|  2-3  |   2 |  1  | 1d6   |
+|  4-6  |   3 |  1  | 1d6+1 |
+|  7-10 |   4 |  2  | 1d6+2 |
+| 11-15 |   5 |  2  | 1d6+3 |
+| 16-21 |   6 |  3  | 2d6   |
+| 22-28 |   7 |  3  | 2d6+1 |
+| 29-36 |   8 |  4  | 2d6+2 |
+| 37-45 |   9 |  4  | 2d6+3 |
+| 46-55 |  10 |  5  | 3d6   |
+| 56-66 |  11 |  5  | 3d6+1 |
+| 67-78 |  12 |  6  | 3d6+2 |
+| 79-91 |  13 |  6  | 3d6+3 |
+|92-105 |  14 |  7  | 4d6   |
+|106-120|  15 |  7  | 4d6+1 |
+|121-136|  16 |  8  | 4d6+2 |
+|137-153|  17 |  8  | 4d6+3 |
+|154-171|  18 |  9  | 5d6   |
+|172-190|  19 |  9  | 5d6+1 |
+|191-210|  20 | 10  | 5d6+2 |
 
 ### Attributes
 
@@ -463,29 +473,37 @@ The effect level result is added to the damage dice of the weapon.
 
 ### Damage Types
 
-* Burning/Fire/Heat
-* Corrosive/Acid
+#### Immunity, Vulnerability, etc.
+
+* Immunity -- means you take no damage from the damage type at all.
+* Resistance -- means you only take half damage from the damage type, 
+    and critical damage is converted to normal damage.
+* Vulnerability -- means damage is converted to critical for the damage type,
+    and critical damage is doubled.
+
+* Protection -- works like resistance, but aggravated is treated as normal damage.  
+* Susceptibility -- works like vulnerability, but normal damage is treated as aggravated.
+
+#### Non-aggravated Damage Types
+
 * Crushing/Grapple/Entangle
-* Energy/Blaster/Laser
-* Freezing/Cold/Ice
-* Necroti/Unholyc/Disruption
 * Piercing/Puncture
-* Poison
 * Psychic/Stress
-* Radiant/Holy
-* Radiation
-* Shocking/Stun/Lightning
 * Slashing
 * Sonic/Thunder
+* Poison
+* Shocking/Stun
 
-### Immunity, Vulnerability, etc.
+#### Aggravated Damage Types
 
-* Immunity -- means you take no damage from the damage type.
-* Resistance -- means you only take half damage from the damage type.
-* Vulnerability -- means you take double damage from the damage type.
-
-* Protection (X) -- means you ignore X effect level (or damage dice) from the damage type.
-* Susceptibility (X) -- means you actually add X effect level (or damage dice) from the damage type.
+* Burning/Fire/Heat
+* Corrosive/Acid
+* Energy/Blaster/Laser
+* Freezing/Cold/Ice
+* Necrotic/Unholy/Disruption
+* Radiant/Holy
+* Radiation
+* Lightning
 
 ### Critical Damage
 

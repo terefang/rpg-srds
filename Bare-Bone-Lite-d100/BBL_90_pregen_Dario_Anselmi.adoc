@@ -24,7 +24,7 @@ Male, Scout
 
 ==== Secondary Scores
 
-* Initiative = 2d6
+* Initiative = 1d6+3
 * Movement = 8
 * Actions = 2
 
