@@ -418,16 +418,29 @@ Some abilities or situations (the gm has the final say), allows making the test 
 
 Multiple cases of Advantage or Disadvantage eleminate each other until only Advantage, Disadvantage or none remain.
 
-* Advantage -- after the roll, if you failed you can switch tens and ones to see if you succeed instead, but still keep the higher effect level. (effectively: the highest die is taken as the ones and the lowest die as the tens value, but the effect level is based on the highest die in the case of success and on the lowest die in case of failure)
-* Disadvantage -- after the roll, if you succeed you are forced to switch tens and ones to check if you still succeeed. (effectively: the lowest die is taken as the ones and the highest die as the tens value)
+**Advantage**
+
+After the roll, if you failed you can switch tens and ones to see if you succeed instead, 
+but still keep the higher effect level. 
+
+*(effectively: the highest die is taken as the ones and the lowest die as the tens value, 
+but the effect level is based on the highest die in the case of success and on the 
+lowest die in case of failure)*
+
+**Disadvantage** 
+
+After the roll, if you succeed you are forced to switch tens and ones to check if you still succeeed. 
+
+*(effectively: the lowest die is taken as the ones and the highest die as the tens value)*
 
 
 ### Contests
 
 Each side make its roll, the side with the "more positive" effect level wins.
 
-* On a tie compare skills.
-* On again a tie GM decides
+* On a tie compare if a side has advantage and/or disadvantage.
+* On again a tie compare skills.
+* On again a tie GM decides.
 
 The final effect level of a contest is the difference of the effect levels.
 
@@ -521,7 +534,43 @@ The effect level result is added to the damage dice of the weapon.
 
 #### Critical Damage Chart (Optional Rule)
 
-TBD. (use d66 ?)
+**Conditions**
+
+* Staggered --
+* Prone --
+* Blinded --
+* Immobilized --
+* Disoriented --
+ 
+| d66   | Result                                                                            |
+|:-----:|:----------------------------------------------------------------------------------|
+| 11    | Target suffers 1 stress.                                                   |    
+| 12    | The target must add -5 ticks initiative order to their next turn.    |    
+| 13    | The target drops anything in hand.                                          |
+| 14    | The target looses one Boone to the attacker.                          |      
+| 15    | The target is in staggered condition until the end of their next turn.   |
+| 16    | Target has disadvantage on the next test.                                |
+| 21    | The target is put in prone condition and suffers 1 stress.           |
+| 22-23 | Increase the difficulty of all mental tests by two, until healed.   |
+| 24    | Increase the difficulty of all social tests by two, until healed.   |
+| 25-26 | Increase the difficulty of all physical tests by two, until healed.    |
+| 31    | The target is in disoriented condition, until healed.    |
+| 32-33 | The target cannot gain advantage on tests, until healed.    |
+| 34-35 | The target loses one action, until healed.    |
+| 36-41 | The next action against target is at advantage and +5 ticks.    |
+| 42-43 | The target suffers 4 stress every time performing an action, until healed.    |
+| 44-45 | The target is at disadvantage for all actions, until healed.    |
+| 46    | The target suffers 4 wounds every time performing an action, until healed.    |
+| 51-52 | Targets limb is impaired. The target is at disadvantage for actions involving the limb, until healed. | 
+| 53    | Target looses one limb permanently (chosen by GM). The target is at disadvantage for all physical actions, until healed.   |
+| 54-55 | One of the targets attributes is reduced by one, until healed.  |
+| 56    | The target is in immobilized condition, until healed.    |
+| 61    | The target is in blinded condition, until healed.    |
+| 62    | The target is in staggered condition, until healed.    |
+| 63    | One of the targets attributes (chosen by GM) is permanently reduced by one, to a minimum of one.    |
+| 64    | Until healed, the target suffers 1 critical each round due to bleeding.        |
+| 65    | The target dies after the end of the next round, unless healed.   |
+| 66    | Its dead Jim, it is dead. |
 
 ### Damage and Armor
 
