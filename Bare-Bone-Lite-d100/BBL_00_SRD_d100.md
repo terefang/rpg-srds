@@ -418,8 +418,8 @@ Some abilities or situations (the gm has the final say), allows making the test 
 
 Multiple cases of Advantage or Disadvantage eleminate each other until only Advantage, Disadvantage or none remain.
 
-* Advantage -- after the roll, you may assign the highest and lowest die value to the ones and tens as you see fit.
-* Disadvantage -- after the roll the lowest die is taken as the ones and the highest die as the tens value.
+* Advantage -- after the roll, if you failed you can switch tens and ones to see if you succeed instead, but still keep the higher effect level. (effectively: the highest die is taken as the ones and the lowest die as the tens value, but the effect level is based on the highest die in the case of success and on the lowest die in case of failure)
+* Disadvantage -- after the roll, if you succeed you are forced to switch tens and ones to check if you still succeeed. (effectively: the lowest die is taken as the ones and the highest die as the tens value)
 
 
 ### Contests
