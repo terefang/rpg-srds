@@ -30,12 +30,12 @@ Male, Scout
 
 ==== Passive Abilities
 
-* Reaction = 28
-* Stamina = 24
-* Alertness = 26
-* Willpower = 22
-* Empathy = 16
-* Composure = 16
+* Reaction (Re = 2x Sw) = 28
+* Stamina (St = 2x To) = 24
+* Alertness (Al = 2x Aw) = 26
+* Willpower (Wi = 2x De) = 22
+* Empathy (Em = 2x Fe) = 16
+* Composure (Co = 2x Tr) = 16
 
 ==== Resource Pools
 
