@@ -5,13 +5,7 @@
   "description": "Bare Bones Light d100 Character Generator",
   "main": "src/index.js",
   "scripts": {
-    "start": "electron-forge start",
-    "package-linux": "electron-forge package --platform linux",
-    "make-linux": "electron-forge make --platform linux",
-    "package-win": "electron-forge package --platform win32",
-    "make-win": "electron-forge make --platform win32",
-    "publish": "electron-forge publish",
-    "lint": "echo \"No linting configured\""
+    "package": "electron-packager . --platform linux,win32 --arch x64 --asar --out out"
   },
   "keywords": [],
   "author": {
@@ -20,44 +14,11 @@
   },
   "license": "MIT",
   "config": {
-    "forge": {
-      "packagerConfig": {},
-      "makers": [
-        {
-          "name": "@electron-forge/maker-zip",
-          "config": {
-            "name": "bbl100-chargen"
-          },
-          "platforms": [
-            "win32"
-          ]
-        },
-        {
-          "name": "@electron-forge/maker-deb",
-          "config": {
-            "name": "bbl100-chargen"
-          }
-        },
-        {
-          "name": "@electron-forge/maker-rpm",
-          "config": {
-            "epoch": 345,
-            "name": "bbl100-chargen"
-          }
-        }
-      ]
-    }
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0"
   },
   "devDependencies": {
-    "@electron-forge/cli": "^6.0.0-beta.54",
-    "@electron-forge/maker-deb": "^6.0.0-beta.54",
-    "@electron-forge/maker-rpm": "^6.0.0-beta.54",
-    "@electron-forge/maker-squirrel": "^6.0.0-beta.54",
-    "@electron-forge/maker-zip": "^6.0.0-beta.54",
-    "@electron-forge/maker-wix": "^6.0.0-beta.54",
+    "electron-packager": "^15.2.0",
     "electron": "12.0.2"
   }
 }

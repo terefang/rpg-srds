@@ -36,6 +36,22 @@
                             </resources>
                         </configuration>
                     </execution>
+                    <execution>
+                        <id>copy-resources-nsis</id>
+                        <goals>
+                            <goal>copy-resources</goal>
+                        </goals>
+                        <phase>generate-resources</phase>
+                        <configuration>
+                            <outputDirectory>${project.build.directory}/nsis/</outputDirectory>
+                            <resources>
+                                <resource>
+                                    <directory>src/main/nsis</directory>
+                                    <filtering>false</filtering>
+                                </resource>
+                            </resources>
+                        </configuration>
+                    </execution>
                 </executions>
             </plugin>
             <plugin>
@@ -44,22 +60,23 @@
                 <version>1.4.0</version>
                 <executions>
                     <execution>
+                        <id>template package-json</id>
                         <phase>generate-resources</phase>
                         <goals>
                             <goal>replace</goal>
                         </goals>
+                        <configuration>
+                            <file>target/electron/BBL100-CharGen/package.json.template</file>
+                            <outputFile>target/electron/BBL100-CharGen/package.json</outputFile>
+                            <replacements>
+                                <replacement>
+                                    <token>@version@</token>
+                                    <value>${project.version}</value>
+                                </replacement>
+                            </replacements>
+                        </configuration>
                     </execution>
                 </executions>
-                <configuration>
-                    <file>target/electron/BBL100-CharGen/package.json.template</file>
-                    <outputFile>target/electron/BBL100-CharGen/package.json</outputFile>
-                    <replacements>
-                        <replacement>
-                            <token>@version@</token>
-                            <value>${project.version}</value>
-                        </replacement>
-                    </replacements>
-                </configuration>
             </plugin>
             <plugin>
                 <groupId>com.github.eirslett</groupId>
@@ -88,44 +105,50 @@
                         </configuration>
                     </execution>
                     <execution>
-                        <id>npm run make linux</id>
+                        <id>npm run electron-packager</id>
                         <goals>
                             <goal>npm</goal>
                         </goals>
                         <phase>generate-resources</phase>
                         <configuration>
-                            <arguments>run make-linux</arguments>
+                            <arguments>run package</arguments>
                         </configuration>
                     </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.digitalmediaserver</groupId>
+                <artifactId>nsis-maven-plugin</artifactId>
+                <version>1.0.3</version>
+                <configuration>
+                    <scriptFile>${project.build.directory}/nsis/setup.nsi</scriptFile>
+                    <outputFile>${project.build.directory}/nsis/${project.artifactId}-${project.version}.exe</outputFile>
+                    <headerFile>${project.build.directory}/nsis/vars.inc</headerFile>
+                    <attachArtifact>false</attachArtifact>
+                    <makeFolder>${project.build.directory}/nsis/</makeFolder>
+                    <defines>
+                        <PROJECT_APP_DIR>${project.build.directory}/electron/BBL100-CharGen/out/bbl100-chargen-win32-x64</PROJECT_APP_DIR>
+                        <PROJECT_APP_EXE>bbl100-chargen.exe</PROJECT_APP_EXE>
+                        <PROJECT_APP_ICO>${project.basedir}/src/main/dist/char-gen.ico</PROJECT_APP_ICO>
+                        <PROJECT_APP_ICO_NAME>char-gen.ico</PROJECT_APP_ICO_NAME>
+
+                    </defines>
+                    <verbosityLevel>4</verbosityLevel>
+                </configuration>
+                <executions>
                     <execution>
-                        <id>npm run package linux</id>
-                        <goals>
-                            <goal>npm</goal>
-                        </goals>
+                        <id>build-windows-header</id>
                         <phase>generate-resources</phase>
-                        <configuration>
-                            <arguments>run package-linux</arguments>
-                        </configuration>
+                        <goals>
+                            <goal>generate-headerfile</goal>
+                        </goals>
                     </execution>
                     <execution>
-                        <id>npm run make win</id>
-                        <goals>
-                            <goal>npm</goal>
-                        </goals>
+                        <id>build-windows-installer</id>
                         <phase>generate-resources</phase>
-                        <configuration>
-                            <arguments>run make-win</arguments>
-                        </configuration>
-                    </execution>
-                    <execution>
-                        <id>npm run package win</id>
                         <goals>
-                            <goal>npm</goal>
+                            <goal>make</goal>
                         </goals>
-                        <phase>generate-resources</phase>
-                        <configuration>
-                            <arguments>run package-win</arguments>
-                        </configuration>
                     </execution>
                 </executions>
             </plugin>

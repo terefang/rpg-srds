@@ -147,6 +147,16 @@ TBD.
   or choose three proficiencies, 
   or any combination thereof.
 
+#### Bloodline (Optional Rule)
+
+TBD.
+
+##### Bloodline Template (Optional Rule)
+
+* Choose one or two attribute bonuses based on your Bloodline instead of your Parents.
+
+* Choose Attributes, Merits, Flaws, Specialties or Abilities from both the lists based on your Bloodline and your Species.
+
 ### Upbringings
 
 The listed vocations are just a sample list provided. 
@@ -380,28 +390,32 @@ You have 25 points for finishing touches.
 
 * Proficiency (ie. base value) in a new skill costs 5 points.
 * each +5 improvement of a skill costs 2 points.
-* mertis, flaws, specialties and abilities cost their indicated rating.
+* Merits, Flaws, Specialties and Abilities cost their indicated rating.
 
 ## Making Tests
 
 The test threshold is the skill value plus difficulty modifier(s).
 Roll d100 equal to or less than the threshold for success, higher is failure.
 
-| Difficulty   | Modifier | Time Taken             | Ranged Attacks | Alternative Difficulty |
-|:-------------|:--------:|:-----------------------|:---------------|:----:|
-| Very Easy    |   +40%   | Ten times normal time  |         | -3 |
-| Easy         |   +20%   | Five times normal time | Touch   | -2 |
-| Simple       |   +10%   | Double normal time     | Reach   | -1 |
-| Routine      |    +0%   | Normal time            | Near    |  0 |
-| Difficult    |   –10%   | --                     | Far     |  1 |
-| Hard         |   –20%   | Half normal time       | Long    |  2 |
-| Very Hard    |   –40%   | --                     | Extreme |  3 |
-| Formidable   |   –60%   | Almost instantly       |         |  4 |
+| Difficulty   | Modifier | Time Taken             | Ranged Attacks | Alternative Difficulty | Effect Step |
+|:-------------|:--------:|:-----------------------|:---------------|:----:|:----:|
+| Very Easy    |   +40%   | Ten times normal time  |         | -3 | 1 |
+| Easy         |   +20%   | Five times normal time | Touch   | -2 | 2 |
+| Simple       |   +10%   | Double normal time     | Reach   | -1 | 3 |
+| Routine      |    +0%   | Normal time            | Near    |  0 | 4 |
+| Difficult    |   –10%   | --                     | Far     |  1 | 5 |
+| Hard         |   –20%   | Half normal time       | Long    |  2 | 6 |
+| Very Hard    |   –40%   | --                     | Extreme |  3 | 7 |
+| Formidable   |   –60%   | Almost instantly       |         |  4 | 8 |
 
 * A pair (11,22,...,99,00) is a critical indicator.
 * A "00" is always a critical fumble.
 * if successful, the positive effect level (if needed) is equal to the "tens" of the roll.
 * if unsuccessful, the negative effect level (if needed) is equal to the "ones" of the roll.
+
+### Exact Roll (Optional Rule)
+
+If you roll the exact test threshold, this is considered a Crit with Effect Level 10.
 
 ### Alternative Difficulty (Optional Rule)
 
@@ -484,7 +498,7 @@ The effect level result is added to the damage dice of the weapon.
 * Damage is done against the appropriate pool.
 * If you suffered more points than your pool, you enter coma.
 
-### Damage Types
+### Damage Types (Optional Rule)
 
 #### Immunity, Vulnerability, etc.
 
@@ -499,7 +513,9 @@ The effect level result is added to the damage dice of the weapon.
 
 #### Non-aggravated Damage Types
 
-* Crushing/Grapple/Entangle
+* Crushing/Force
+* Grapple/Entangle
+* Bludgeoning
 * Piercing/Puncture
 * Psychic/Stress
 * Slashing
@@ -532,45 +548,18 @@ The effect level result is added to the damage dice of the weapon.
   or reduces scored effect levels 1:1
   in the relevant category (GM decides).
 
-#### Critical Damage Chart (Optional Rule)
-
-**Conditions**
-
+#### Critical Damage Types and Conditions (Optional Rule)
+ 
 * Staggered --
 * Prone --
 * Blinded --
 * Immobilized --
 * Disoriented --
- 
-| d66   | Result                                                                            |
-|:-----:|:----------------------------------------------------------------------------------|
-| 11    | Target suffers 1 stress.                                                   |    
-| 12    | The target must add -5 ticks initiative order to their next turn.    |    
-| 13    | The target drops anything in hand.                                          |
-| 14    | The target looses one Boone to the attacker.                          |      
-| 15    | The target is in staggered condition until the end of their next turn.   |
-| 16    | Target has disadvantage on the next test.                                |
-| 21    | The target is put in prone condition and suffers 1 stress.           |
-| 22-23 | Increase the difficulty of all mental tests by two, until healed.   |
-| 24    | Increase the difficulty of all social tests by two, until healed.   |
-| 25-26 | Increase the difficulty of all physical tests by two, until healed.    |
-| 31    | The target is in disoriented condition, until healed.    |
-| 32-33 | The target cannot gain advantage on tests, until healed.    |
-| 34-35 | The target loses one action, until healed.    |
-| 36-41 | The next action against target is at advantage and +5 ticks.    |
-| 42-43 | The target suffers 4 stress every time performing an action, until healed.    |
-| 44-45 | The target is at disadvantage for all actions, until healed.    |
-| 46    | The target suffers 4 wounds every time performing an action, until healed.    |
-| 51-52 | Targets limb is impaired. The target is at disadvantage for actions involving the limb, until healed. | 
-| 53    | Target looses one limb permanently (chosen by GM). The target is at disadvantage for all physical actions, until healed.   |
-| 54-55 | One of the targets attributes is reduced by one, until healed.  |
-| 56    | The target is in immobilized condition, until healed.    |
-| 61    | The target is in blinded condition, until healed.    |
-| 62    | The target is in staggered condition, until healed.    |
-| 63    | One of the targets attributes (chosen by GM) is permanently reduced by one, to a minimum of one.    |
-| 64    | Until healed, the target suffers 1 critical each round due to bleeding.        |
-| 65    | The target dies after the end of the next round, unless healed.   |
-| 66    | Its dead Jim, it is dead. |
+* Bleeding (N) -- the target suffers N wound(s) each round, due to blood loss.
+* Critical Bleeding (N) -- the target suffers N critical wound(s) each round, due to massive blood loss.
+
+
+
 
 ### Damage and Armor
 
@@ -597,16 +586,18 @@ eating, drinking, reading, and tending wounds.
 * Stress Pool -- a number of points equal to (De) are recovered
 * Doubt Pool -- a number of points equal to (Tr) are recovered
 
-You can take a max of 2 short rests per day.
+*You can take a max of 2 short rests per day.*
 
 *Long Rest* -- is an extended period of at least 8 hours, during which only sleep or light activity is performed (as per short rest), 
-or standing watch max 1 hour. If the rest is interrupted, it is needed to begin anew for any benefit.
+               or standing watch max 1 hour. If the rest is interrupted, it is needed to begin anew for any benefit.
 
 * Health Pool -- a number of points equal to (To+Ph) are recovered
 * Stress Pool -- a number of points equal to (De+In) are recovered
 * Doubt Pool -- a number of points equal to (Tr+Pr) are recovered
 
 One point of non-aggravated crit is recovered per Long Rest in each Category.
+
+*You can take a max of 1 long rest per day.*
 
 ### Assisted Healing
 
@@ -649,4 +640,56 @@ Improving a skill by +1, costs the tens of the new Skill Score in XP, with a min
 
 ## Appendix
 
-TODO
+### Alternative Relative Difficulty (Optional Rule)
+                                    
+You reference your Skill and the Difficulty on the table below, this becomes the test threshold. 
+Roll d100 and establish an effect level as per normal rules.
+
+| Skill     | Very Easy | Easy      | Simple  | Routine | Difficult | Hard  | Very Hard | Formidable |   X#1  |  X#2    |
+|:---------:|:---------:|:---------:|:-------:|:-------:|:---------:|:-----:|:---------:|:----------:|:------:|:-------:|
+|  1-3	    |	43	|	23	|	13	|	5	|	3	|	3	|	2	|	1	|	1	|	1    |
+|  4-6	    |	46	|	26	|	16	|	9	|	6	|	5	|	3	|	2	|	1	|	1    |
+|  7-9	    |	49	|	29	|	19	|	14	|	9	|	7	|	5	|	3	|	2	|	1    |
+|  10-12	|	52	|	32	|	24	|	18	|	12	|	9	|	6	|	3	|	2	|	2    |
+|  13-15	|	55	|	38	|	30	|	23	|	15	|	12	|	8	|	4	|	2	|	2    |
+|  16-18	|	58	|	45	|	36	|	27	|	18	|	14	|	9	|	5	|	3	|	2    |
+|  19-21	|	63	|	53	|	42	|	32	|	21	|	16	|	11	|	6	|	3	|	3    |
+|  22-24	|	72	|	60	|	48	|	36	|	24	|	18	|	12	|	6	|	3	|	3    |
+|  25-27	|	81	|	68	|	54	|	41	|	27	|	21	|	14	|	7	|	4	|	3    |
+|  28-30	|	90	|	75	|	60	|	45	|	30	|	23	|	15	|	8	|	4	|	3    |
+|  31-33	|	99	|	83	|	66	|	50	|	33	|	25	|	17	|	9	|	5	|	4    |
+|  34-36	|	99	|	90	|	72	|	54	|	36	|	27	|	18	|	9	|	5	|	4    |
+|  37-39	|	99	|	98	|	78	|	59	|	39	|	30	|	20	|	10	|	5	|	4    |
+|  40-42	|	99	|	99	|	84	|	63	|	42	|	32	|	21	|	11	|	6	|	5    |
+|  43-45	|	99	|	99	|	90	|	68	|	45	|	34	|	23	|	12	|	6	|	5    |
+|  46-48	|	99	|	99	|	96	|	72	|	48	|	36	|	24	|	12	|	6	|	5    |
+|  49-51	|	99	|	99	|	99	|	77	|	51	|	39	|	26	|	13	|	7	|	6    |
+|  52-54	|	99	|	99	|	99	|	81	|	54	|	41	|	27	|	14	|	7	|	6    |
+|  55-57	|	99	|	99	|	99	|	86	|	57	|	43	|	29	|	15	|	8	|	6    |
+|  58-60	|	99	|	99	|	99	|	90	|	60	|	45	|	30	|	15	|	8	|	6    |
+|  61-63	|	99	|	99	|	99	|	95	|	63	|	48	|	32	|	16	|	8	|	7    |
+|  64-66	|	99	|	99	|	99	|	99	|	66	|	50	|	33	|	17	|	9	|	7    |
+|  67-69	|	99	|	99	|	99	|	99	|	69	|	52	|	35	|	18	|	9	|	7    |
+|  70-72	|	99	|	99	|	99	|	99	|	72	|	54	|	36	|	18	|	9	|	8    |
+|  73-75	|	99	|	99	|	99	|	99	|	75	|	57	|	38	|	19	|	10	|	8    |
+|  76-78	|	99	|	99	|	99	|	99	|	78	|	59	|	39	|	20	|	10	|	8    |
+|  79-81	|	99	|	99	|	99	|	99	|	81	|	61	|	41	|	21	|	11	|	9    |
+|  82-84	|	99	|	99	|	99	|	99	|	84	|	64	|	44	|	24	|	11	|	9    |
+|  85-87	|	99	|	99	|	99	|	99	|	87	|	67	|	47	|	27	|	11	|	9    |
+|  88-90	|	99	|	99	|	99	|	99	|	90	|	70	|	50	|	30	|	12	|	9    |
+|  91-93	|	99	|	99	|	99	|	99	|	93	|	73	|	53	|	33	|	13	|	10   |
+|  94-96	|	99	|	99	|	99	|	99	|	96	|	76	|	56	|	36	|	16	|	10   |
+|  97-99	|	99	|	99	|	99	|	99	|	99	|	79	|	59	|	39	|	19	|	10   |
+
+the formula used is: MIN(99;MAX(ROUNDUP(A*SKILL;0);SKILL+B))
+
+* Very Easy:        A=3,    B=+40
+* Easy:             A=2.5,  B=+20
+* Simple:           A=2,    B=+10
+* Routine:          A=1.5,  B=+0
+* Difficult:        A=1,    B=-10
+* Hard:             A=0.75, B=-20
+* Very Hard:        A=0.5,  B=-40
+* Formidable:       A=0.25, B=-60
+* X#1:              A=0.125, B=-80
+* X#2:              A=0.1,  B=-100

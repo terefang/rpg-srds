@@ -1,0 +1,12 @@
+[Desktop Entry]
+# put into /usr/share/applications/{appId}.desktop
+Version={version}
+Name={appId}
+Comment={descrption}
+Exec=/opt/{appId}/{appId}.x86_64
+Path=/opt/{appId}
+Icon=/opt/{appId}/{appId}.png
+Terminal=false
+Type=Application
+Categories=Games
+StartupNotify=true
