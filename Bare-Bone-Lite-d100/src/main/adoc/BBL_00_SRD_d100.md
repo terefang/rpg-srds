@@ -134,6 +134,14 @@ TBD.
 * Religion, Specific (In+In+Aw)
 * Stewardship (In+In+Aw)
 
+### Advantages aka. Talents
+
+TBD.
+
+### SFX aka. Powers
+
+TBD.
+
 ### Ancestries
 
 *Parents:*
@@ -558,7 +566,17 @@ The effect level result is added to the damage dice of the weapon.
 * Bleeding (N) -- the target suffers N wound(s) each round, due to blood loss.
 * Critical Bleeding (N) -- the target suffers N critical wound(s) each round, due to massive blood loss.
 
+### Fighting Styles (Optional Rule)
 
+* One Handed
+
+* One Handed plus Shield
+
+* Two Handed
+
+* Two Weapons
+
+* Paired Weapons
 
 
 ### Damage and Armor
@@ -569,6 +587,8 @@ Medieval armor comes in four categories:
 * Medium Protection -- 2d subtracted from damage, -3 Ticks in Action Order
 * Heavy Protection -- 3d subtracted from damage, -5 Ticks in Action Order, max Actions 2 per round.
 * Magical Protection -- see specific description
+
+A shield increases Protection by one step (ie. 1d).
 
 ### Movement
 
@@ -622,6 +642,20 @@ TODO
 | Medium                          |  x 1  |
 | Long                            |  x 2  |
 
+### Out-of-Play Experience
+
+| Out-of-Play Activity            | XP Award |
+|:--------------------------------|:--------:|
+| Active Adventuring OR Training OR Research | 2-5/week |
+| Active                          | 1/week   |
+| Relaxed                         | 1/month  |
+| Leisure                         | 2-5/year |
+| Retired                         | 1/year   |
+
+*The GM may adjust the actual awards based on ancestry, culture, environment and availability of facilities.*
+
+### Improvements
+
 **Improving Attributes**
 
 Improving an attribute by +1, costs the new Attribute Score x2 in XP
@@ -637,6 +671,10 @@ Proficiency in a new skill, costs 5 XP.
 Improving a skill by +1, costs the tens of the new Skill Score in XP, with a minimum of one.
 
 *To improve a skill from 39 to 40, 4 XP must be expended.*
+
+**Required Training**
+
+The GM may rule on requirements that must be met, to be able to spend XP for improvement.
 
 ## Appendix
 
