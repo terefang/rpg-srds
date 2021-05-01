@@ -55,6 +55,7 @@
 * DungeonWorld -- http://www.dungeonworldsrd.com/
 * Trophy SRD -- https://trophyrpg.com/system/
 * 24XX SRD -- https://www.drivethrurpg.com/product/335307/24XX-SRD
+* Fantasy World -- https://sites.google.com/view/fantasyworldrpg/introduction
 
 ## Fate/Fudge SRDs
 
