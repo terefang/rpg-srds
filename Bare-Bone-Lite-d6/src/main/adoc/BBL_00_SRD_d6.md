@@ -321,8 +321,8 @@ around the richest resources.
 
 ### Occupational Templates
 
-You have 25 points for occupational abilities,
-any left over points (max. 5) are added to finishing touches.
+You have X points for occupational abilities,
+any left over points (max. X) are added to finishing touches.
 
 * Proficiency in a skill costs X points.
 * each +1d improvement of a skill costs X points.
