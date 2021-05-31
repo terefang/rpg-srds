@@ -88,8 +88,3 @@
 
 integrate missing ones from https://www.tenkarstavern.com/p/f.html
 
-## Links to Licenses in Markdown
-
-* Creative Commons -- https://github.com/idleberg/Creative-Commons-Markdown
-* OGL -- https://github.com/Umbyology/OGL-SRD5/blob/master/legal.md 
-* Various GNU/BSD/etc -- https://github.com/IQAndreas/markdown-licenses
