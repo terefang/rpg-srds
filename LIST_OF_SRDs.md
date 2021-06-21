@@ -18,6 +18,7 @@
 * SE:20 Core Rules SRD -- https://www.drivethrurpg.com/product/309470/SE20-Core-Rules-SRD
 * Open Legend SRD -- https://openlegendrpg.com/ and https://github.com/openlegend/core-rules
 * Anime d20 — System Reference Document v1.0 -- http://www.opengamingfoundation.org/animesrd/Ability_Scores.htm
+* The Arcanum 30th Anniversary Edition SRD -- http://zila-games.com/arcanum/
 
 ## d100 SRDs
 
