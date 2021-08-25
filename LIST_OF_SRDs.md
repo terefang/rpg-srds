@@ -43,6 +43,7 @@
 * WaRP SRD -- https://www.atlas-games.com/otelegacy#warped/
 * Six-Sided Fantasy Reference Document -- http://sycarion.com/static/sixsidedf.html
 * Year Zero Engine SRD -- http://frank-mitchell.com/rpg/year-zero-engine-ogl/
+* Sixtacular System Reference Document (free) -- https://www.drivethrurpg.com/product/233609/Sixtacular-SRD-10
 
 ## 2d6 SRDs
 
