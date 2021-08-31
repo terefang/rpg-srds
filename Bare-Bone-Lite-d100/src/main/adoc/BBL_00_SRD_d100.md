@@ -405,16 +405,16 @@ You have 25 points for finishing touches.
 The test threshold is the skill value plus difficulty modifier(s).
 Roll d100 equal to or less than the threshold for success, higher is failure.
 
-| Difficulty   | Modifier | Time Taken             | Ranged Attacks | Alternative Difficulty | Effect Step |
-|:-------------|:--------:|:-----------------------|:---------------|:----:|:----:|
-| Very Easy    |   +40%   | Ten times normal time  |         | -3 | 1 |
-| Easy         |   +20%   | Five times normal time | Touch   | -2 | 2 |
-| Simple       |   +10%   | Double normal time     | Reach   | -1 | 3 |
-| Routine      |    +0%   | Normal time            | Near    |  0 | 4 |
-| Difficult    |   –10%   | --                     | Far     |  1 | 5 |
-| Hard         |   –20%   | Half normal time       | Long    |  2 | 6 |
-| Very Hard    |   –40%   | --                     | Extreme |  3 | 7 |
-| Formidable   |   –60%   | Almost instantly       |         |  4 | 8 |
+| Difficulty   | Modifier | Time Taken             | Ranged Attacks |
+|:-------------|:--------:|:-----------------------|:---------------|
+| Very Easy    |   +30%   | Ten times normal time  |                |
+| Easy         |   +20%   | Five times normal time | Touch          |
+| Simple       |   +10%   | Double normal time     | Reach          |
+| Routine      |    +0%   | Normal time            | Near           |
+| Difficult    |   –10%   | --                     | Far            |
+| Hard         |   –20%   | Half normal time       | Long           |
+| Very Hard    |   –30%   | --                     | Extreme        |
+| Formidable   |   –40%   | Almost instantly       |                |
 
 * A pair (11,22,...,99,00) is a critical indicator.
 * A "00" is always a critical fumble.
@@ -424,15 +424,6 @@ Roll d100 equal to or less than the threshold for success, higher is failure.
 ### Exact Roll (Optional Rule)
 
 If you roll the exact test threshold, this is considered a Crit with Effect Level 10.
-
-### Alternative Difficulty (Optional Rule)
-
-The test threshold is the skill value. Roll d100 and establish an effect level as per normal rules.
-Score at least an effect level equal or greater than the alternative difficulty for success.
-
-The final effect level is the difference from the alternative difficulty.
-
-*Example:* the pc rolls and scores an effect level of 4 for a Difficult task -- the final effect level is 3 and the task is successful.
 
 ### Rolling at Advantage or Disadvantage
 
@@ -506,42 +497,6 @@ The effect level result is added to the damage dice of the weapon.
 * Damage is done against the appropriate pool.
 * If you suffered more points than your pool, you enter coma.
 
-### Damage Types (Optional Rule)
-
-#### Immunity, Vulnerability, etc.
-
-* Immunity -- means you take no damage from the damage type at all.
-* Resistance -- means you only take half damage from the damage type, 
-    and critical damage is converted to normal damage.
-* Vulnerability -- means damage is converted to critical for the damage type,
-    and critical damage is doubled.
-
-* Protection -- works like resistance, but aggravated is treated as normal damage.  
-* Susceptibility -- works like vulnerability, but normal damage is treated as aggravated.
-
-#### Non-aggravated Damage Types
-
-* Crushing/Force
-* Grapple/Entangle
-* Bludgeoning
-* Piercing/Puncture
-* Psychic/Stress
-* Slashing
-* Sonic/Thunder
-* Poison
-* Shocking/Stun
-
-#### Aggravated Damage Types
-
-* Burning/Fire/Heat
-* Corrosive/Acid
-* Energy/Blaster/Laser
-* Freezing/Cold/Ice
-* Necrotic/Unholy/Disruption
-* Radiant/Holy
-* Radiation
-* Lightning
-
 ### Critical Damage
 
 * On a critical result damage dice are not rolled,
@@ -555,29 +510,6 @@ The effect level result is added to the damage dice of the weapon.
 * Each crit suffered adds a -10% to skill rolls,
   or reduces scored effect levels 1:1
   in the relevant category (GM decides).
-
-#### Critical Damage Types and Conditions (Optional Rule)
- 
-* Staggered --
-* Prone --
-* Blinded --
-* Immobilized --
-* Disoriented --
-* Bleeding (N) -- the target suffers N wound(s) each round, due to blood loss.
-* Critical Bleeding (N) -- the target suffers N critical wound(s) each round, due to massive blood loss.
-
-### Fighting Styles (Optional Rule)
-
-* One Handed
-
-* One Handed plus Shield
-
-* Two Handed
-
-* Two Weapons
-
-* Paired Weapons
-
 
 ### Damage and Armor
 
@@ -675,59 +607,3 @@ Improving a skill by +1, costs the tens of the new Skill Score in XP, with a min
 **Required Training**
 
 The GM may rule on requirements that must be met, to be able to spend XP for improvement.
-
-## Appendix
-
-### Alternative Relative Difficulty (Optional Rule)
-                                    
-You reference your Skill and the Difficulty on the table below, this becomes the test threshold. 
-Roll d100 and establish an effect level as per normal rules.
-
-| Skill     | Very Easy | Easy      | Simple  | Routine | Difficult | Hard  | Very Hard | Formidable |   X#1  |  X#2    |
-|:---------:|:---------:|:---------:|:-------:|:-------:|:---------:|:-----:|:---------:|:----------:|:------:|:-------:|
-|  1-3	    |	43	|	23	|	13	|	5	|	3	|	3	|	2	|	1	|	1	|	1    |
-|  4-6	    |	46	|	26	|	16	|	9	|	6	|	5	|	3	|	2	|	1	|	1    |
-|  7-9	    |	49	|	29	|	19	|	14	|	9	|	7	|	5	|	3	|	2	|	1    |
-|  10-12	|	52	|	32	|	24	|	18	|	12	|	9	|	6	|	3	|	2	|	2    |
-|  13-15	|	55	|	38	|	30	|	23	|	15	|	12	|	8	|	4	|	2	|	2    |
-|  16-18	|	58	|	45	|	36	|	27	|	18	|	14	|	9	|	5	|	3	|	2    |
-|  19-21	|	63	|	53	|	42	|	32	|	21	|	16	|	11	|	6	|	3	|	3    |
-|  22-24	|	72	|	60	|	48	|	36	|	24	|	18	|	12	|	6	|	3	|	3    |
-|  25-27	|	81	|	68	|	54	|	41	|	27	|	21	|	14	|	7	|	4	|	3    |
-|  28-30	|	90	|	75	|	60	|	45	|	30	|	23	|	15	|	8	|	4	|	3    |
-|  31-33	|	99	|	83	|	66	|	50	|	33	|	25	|	17	|	9	|	5	|	4    |
-|  34-36	|	99	|	90	|	72	|	54	|	36	|	27	|	18	|	9	|	5	|	4    |
-|  37-39	|	99	|	98	|	78	|	59	|	39	|	30	|	20	|	10	|	5	|	4    |
-|  40-42	|	99	|	99	|	84	|	63	|	42	|	32	|	21	|	11	|	6	|	5    |
-|  43-45	|	99	|	99	|	90	|	68	|	45	|	34	|	23	|	12	|	6	|	5    |
-|  46-48	|	99	|	99	|	96	|	72	|	48	|	36	|	24	|	12	|	6	|	5    |
-|  49-51	|	99	|	99	|	99	|	77	|	51	|	39	|	26	|	13	|	7	|	6    |
-|  52-54	|	99	|	99	|	99	|	81	|	54	|	41	|	27	|	14	|	7	|	6    |
-|  55-57	|	99	|	99	|	99	|	86	|	57	|	43	|	29	|	15	|	8	|	6    |
-|  58-60	|	99	|	99	|	99	|	90	|	60	|	45	|	30	|	15	|	8	|	6    |
-|  61-63	|	99	|	99	|	99	|	95	|	63	|	48	|	32	|	16	|	8	|	7    |
-|  64-66	|	99	|	99	|	99	|	99	|	66	|	50	|	33	|	17	|	9	|	7    |
-|  67-69	|	99	|	99	|	99	|	99	|	69	|	52	|	35	|	18	|	9	|	7    |
-|  70-72	|	99	|	99	|	99	|	99	|	72	|	54	|	36	|	18	|	9	|	8    |
-|  73-75	|	99	|	99	|	99	|	99	|	75	|	57	|	38	|	19	|	10	|	8    |
-|  76-78	|	99	|	99	|	99	|	99	|	78	|	59	|	39	|	20	|	10	|	8    |
-|  79-81	|	99	|	99	|	99	|	99	|	81	|	61	|	41	|	21	|	11	|	9    |
-|  82-84	|	99	|	99	|	99	|	99	|	84	|	64	|	44	|	24	|	11	|	9    |
-|  85-87	|	99	|	99	|	99	|	99	|	87	|	67	|	47	|	27	|	11	|	9    |
-|  88-90	|	99	|	99	|	99	|	99	|	90	|	70	|	50	|	30	|	12	|	9    |
-|  91-93	|	99	|	99	|	99	|	99	|	93	|	73	|	53	|	33	|	13	|	10   |
-|  94-96	|	99	|	99	|	99	|	99	|	96	|	76	|	56	|	36	|	16	|	10   |
-|  97-99	|	99	|	99	|	99	|	99	|	99	|	79	|	59	|	39	|	19	|	10   |
-
-the formula used is: MIN(99;MAX(ROUNDUP(A*SKILL;0);SKILL+B))
-
-* Very Easy:        A=3,    B=+40
-* Easy:             A=2.5,  B=+20
-* Simple:           A=2,    B=+10
-* Routine:          A=1.5,  B=+0
-* Difficult:        A=1,    B=-10
-* Hard:             A=0.75, B=-20
-* Very Hard:        A=0.5,  B=-40
-* Formidable:       A=0.25, B=-60
-* X#1:              A=0.125, B=-80
-* X#2:              A=0.1,  B=-100
