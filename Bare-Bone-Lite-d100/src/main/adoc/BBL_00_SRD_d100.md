@@ -96,7 +96,23 @@ single attribute.
 
 ##### Fighting Styles (Optional Rule)
 
-TBD.
+* Berserker -- The fighter gains advantage to offensive actions and disadvantage to defensive actions for the duration 
+of the encounter, and suffers exhaustion (disadvantage) until the next short/long rest.
+
+* Shield Master - The fighter gains advantage to defensive actions when using a shield.
+
+* Swashbuckler --  So long as the fighter is wearing ‘light’ armour (no heavier than leather), is not using a shield, 
+and is not using a large weapon, he/she gains advantage to defensive actions.
+Also, when using two weapons the fighter gains advantage to offensive actions.
+
+* Unarmed Combat -- The fighter can do light/medium/heavy normal damage with only his/her fists and feet.
+
+* Weapon Master -- The fighter gains advantage to offensive actions with one group/type of weapons.
+Each group/type of weapon may be chosen only once by a character.
+
+* Weapon Grandmaster -- If a fighter is already a weapon master of a particular group/type of weapon, he/she may become 
+a ‘grandmaster’ of that weapon group/type.  A grandmaster re-rolls any '1's on damage dice.
+Each group/type of weapon may be chosen only once by a character.
 
 #### Common Skills
 
