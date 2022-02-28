@@ -33,6 +33,7 @@
 * Lore / Lore 100 SRD -- https://www.drivethrurpg.com/product/299747/Lore---Lore-100-SRDs
 * d100 Bare Metal Edition -- https://github.com/PeterRudin-Burgess/Bare-Metal-Edition
 * APOCTHULHU SRD -- https://www.drivethrurpg.com/product/338046/APOCTHULHU-System-Reference-Document
+* d00 System SRD -- https://web.archive.org/web/20120622021304/http://d00system.com/index.php?title=Main_Page
 
 ## d6 SRDs
 
