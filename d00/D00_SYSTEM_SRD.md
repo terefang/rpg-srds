@@ -229,7 +229,7 @@ When using ranged weapons such as bows or firearms, characters who are very dext
 characters who are very uncoordinated, by hitting them more effectively. Therefore, ranged damage is modified by 
 a character's Dexterity score according to the following table.
 
-| Attribute | Damage Modifier |
+| Ability | Damage Modifier |
 |:--|:---:|
 | 01-05	 | -5 |
 | 06-15	 | -4 |
@@ -326,7 +326,7 @@ A discipline skill provides access to specific discrete abilities that all fall 
 
 > For example, a game might have a "martial arts" skill which falls under a "combatant" field of study. It might be a discipline skill which includes the disciplines: kick, punch, elbow, knee, roll-with-the-punch, hammerfist, spinning kick, instant stand, and all-around-sight. Each of these disciplines would have a specific described effect. The "spinning kick" discipline might be described as "your character spins around for momentum and will cause double damage if he hits. However, if a successful spinning kick is defended against successfully by a dodge (see resistance checks) then your character is knocked on the ground prone and must spend a turn getting back up, unless he also has the 'instant stand' discipline."
 
-###Power Skill
+### Power Skill
 
 A power skill provides access to scalable abilities that relate to one skill, but a character has finite personal resources to fuel these abilities. Normally used only with mystical, supernatural, or magical powers. Individual game systems derived from the d00 System SRD may have their own subsystems for handling these special powers.
 
