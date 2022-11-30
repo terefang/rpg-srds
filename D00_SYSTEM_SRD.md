@@ -75,14 +75,15 @@ The GM can assign any bonuses or penalties the situation warrants. Specific modi
 
 **Categorized success modifiers:** For ad-hoc modifier application, GMs may assess the situation and apply one of the following categorized success modifiers.
 
+| Difficulty | Modifier |
 |--:|:--|
-| Easy:         | +20 modifier |
-| Normal:       | no modifier |
-| Challenging:  | -10 modifier |
-| Hard:         | -20 modifier |
-| Very Hard:    | -30 modifier |
-| Improbable:   | -40 modifier |
-| Yeah, right:  | -50 modifier |
+| Easy         | +20 modifier |
+| Normal       | no modifier |
+| Challenging  | -10 modifier |
+| Hard         | -20 modifier |
+| Very Hard    | -30 modifier |
+| Improbable   | -40 modifier |
+| Yeah, right  | -50 modifier |
 
 ## Additional Considerations
 
