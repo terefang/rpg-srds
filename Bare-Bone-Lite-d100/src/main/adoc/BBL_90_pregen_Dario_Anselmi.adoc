@@ -32,7 +32,7 @@ Male, Scout
 
 * Reaction (Re = 2x Sw) = 28
 * Stamina (St = 2x To) = 24
-* Alertness (Al = 2x Aw) = 26
+* Vigilance (Vi = 2x Aw) = 26
 * Willpower (Wi = 2x De) = 22
 * Empathy (Em = 2x Fe) = 16
 * Composure (Co = 2x Tr) = 16
@@ -105,7 +105,7 @@ Male, Scout
 | Swiftness (Sw)     | 14 | Reaction | 28  | Actions | 2
 | Toughness (To)     | 12 | Stamina  | 24  | Movement | 8
 | Intelligence (In)  | 13 |           |    | Health Pool | 39
-| Awareness (Aw)     | 13 | Alertness | 26 | Crit Threshold | 9
+| Awareness (Aw)     | 13 | Vigilance | 26 | Crit Threshold | 9
 | Determination (De) | 11 | Willpower | 22 | Stress Pool | 35
 | Presence (Pr)      | 9  |           |    | Crit Threshold | 9
 | Fellowship (Fe)    | 8  | Empathy   | 16 | Doubt Pool | 25

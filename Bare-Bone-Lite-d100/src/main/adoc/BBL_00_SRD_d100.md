@@ -58,7 +58,7 @@ single attribute.
 
 * Reaction (Re) = 2x Sw
 * Stamina (St) = 2x To
-* Alertness (Al) = 2x Aw
+* Vigilance (Vi) = 2x Aw
 * Willpower (Wi) = 2x De
 * Empathy (Em) = 2x Fe
 * Composure (Co) = 2x Tr
@@ -119,7 +119,6 @@ Each group/type of weapon may be chosen only once by a character.
 * Animal Ken (In+Pr+Fe)
 * Acrobatics (Ph+Sw+To)
 * Athletics (Ph+Ph+To)
-* Craft, Specific (Ph+Sw+In)
 * Expression (Aw+De+Pr)
 * Intimidation (Pr+De+De)
 * Investigation (In+Aw+De)
@@ -136,8 +135,11 @@ Each group/type of weapon may be chosen only once by a character.
 * Subterfuge (In+Fe+Tr)
 * Survival (Ph+Sw+Aw)
 
-* Language, Specific (20+In+Aw)
 
+#### Specific Skills
+
+* Craft, Specific (Ph+Sw+In)
+* Language, Specific (20+In+Aw)
 * Knowledge, Specific (In+In+Aw)
 
 #### Advanced Skills
@@ -434,8 +436,8 @@ Roll d100 equal to or less than the threshold for success, higher is failure.
 
 * A pair (11,22,...,99,00) is a critical indicator.
 * A "00" is always a critical fumble.
-* if successful, the positive effect level (if needed) is equal to the "tens" of the roll.
-* if unsuccessful, the negative effect level (if needed) is equal to the "ones" of the roll.
+* if successful, the positive effect level (if needed) is equal to the "tens" of the (original) roll.
+* if unsuccessful, the negative effect level (if needed) is equal to the "ones" of the (original) roll.
 
 ### Exact Roll (Optional Rule)
 
@@ -443,7 +445,7 @@ If you roll the exact test threshold, this is considered a Crit with Effect Leve
 
 ### Rolling at Advantage or Disadvantage
 
-Some abilities or situations (the gm has the final say), allows making the test at Advantage or Disadvantge.
+Some abilities or situations (the gm has the final say), allows making the test at Advantage or Disadvantage.
 
 Multiple cases of Advantage or Disadvantage eleminate each other until only Advantage, Disadvantage or none remain.
 
@@ -489,7 +491,7 @@ Roll your combat skill as you would for a contest.
 
 If the defender is not in the position to actively defend, he needs to substitute Reaction instead.
 
-If the defender is not in the position to passively defend (restrained), his effect level is zero.
+If the defender is not in the position to passively defend (restrained), the attack becomes a simple test.
 
 Note: this could mean that an unlucky attacker can damage itself even given a restrained defender.
 
