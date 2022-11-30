@@ -219,28 +219,16 @@ The character's hourly rate is for exploring on larger scale maps. It assumes a 
 
 ### Melee Damage Modifier
 
-When using melee weapons or bare hands, characters who are very strong will hurt their enemies more than characters who are very weak. Therefore, melee damage is modified by a character's Strength score according to the following table.
-
-|Strength | Melee Damage Modifier |
-|:--|:---:|
-| 01-05	 | -5 |
-| 06-15	 | -4 |
-| 16-25	 | -3 |
-| 26-35	 | -2 |
-| 36-45	 | -1 |
-| 46-55	 | +0 |
-| 56-65	 | +1 |
-| 66-75	 | +2 |
-| 76-85	 | +3 |
-| 86-95	 | +4 |
-| 96-105 | 	+5 |
-| Each +10 | 	+1 |
+When using melee weapons or bare hands, characters who are very strong will hurt their enemies more than characters 
+who are very weak. Therefore, melee damage is modified by a character's Strength score according to the following table.
 
 ### Ranged Damage Modifier
 
-When using ranged weapons such as bows or firearms, characters who are very dextrous will hurt their enemies more than characters who are very uncoordinated, by hitting them more effectively. Therefore, ranged damage is modified by a character's Dexterity score according to the following table.
+When using ranged weapons such as bows or firearms, characters who are very dextrous will hurt their enemies more than 
+characters who are very uncoordinated, by hitting them more effectively. Therefore, ranged damage is modified by 
+a character's Dexterity score according to the following table.
 
-| Dexterity | Ranged Damage Modifier |
+| Attribute | Damage Modifier |
 |:--|:---:|
 | 01-05	 | -5 |
 | 06-15	 | -4 |
