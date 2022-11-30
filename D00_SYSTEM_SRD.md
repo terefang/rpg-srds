@@ -191,44 +191,52 @@ Roll d00 on the random ability score table once for each of the eight abilities,
 |90-94 | 70% | Excellent |
 |95-99 | 75% | Remarkable |
 
+## Derived Abilities
 
-Derived Abilities
 In addition to the primary abilities (or the lite ability set) defined above, characters in games created from the d00 System SRD have a few other abilities which are derived from those described above. These are called derived abilities.
 
-Body Points
+### Body Points
+
 Body Points (abbreviated BP) is simply the number of points of damage your character can sustain before he falls unconscious (or worse!). Body Points are calculated by using half the character's END score (if using the lite ability set, half the STR score). When a character reaches 0 BP, he is unconscious. When the action is over, the character must make an END check to awaken with 1 BP. If the check is failed, the character is dead.
 
 For instance, a character with an END score of 55 has 28 BP.
 
-Initiative
+### Initiative
+
 Most characters have an initiative score of 1. This is the number of dice rolled to determine who goes first in combat. Very perceptive characters (PER 65% or higher) or very quick characters (AGL 65% or higher) have an initiative score of 2. A character who is both very quick and very perceptive (both scores 65% or higher) has a 3 initiative score and is extraordinarily fast. Initiative is explained more in the combat section.
 
 Note that if using the lite ability set, LOG and AGL are used to determine Initiative.
 
-Movement
+### Movement
+
 Time and distance can vary among games created using the d00 System SRD. One game might use meters per turn, another might use feet per second, etc. Still others might use an abstract unit of "spaces" per turn, designed for miniature use. Because of this, individual games will have totally different measurements of time and distance for movement considerations. What follows is a well-tested default movement resolution system that can serve as a default for any game derived from this SRD.
 
 Characters have movement rates listed in three values: normal, fast, and hourly. A character who is moving normally is walking. Characters may move this walking distance in a combat turn for free. A player who wants his character to move faster must make an AGL check. If he succeeds, he may move up to his fast movement rate, but if he fails, he moves only twice his normal rate.
 
-For instance, a character might have a movement rate of 10m/turn, 30m/turn, 5kph. He may move up to 10 meters for free. If the player wants to move further, he makes an AGL check. If he succeeds, he'll move 30 meters. If he fails, he'll move only 20 meters (twice his normal rate).
+> For instance, a character might have a movement rate of 10m/turn, 30m/turn, 5kph. He may move up to 10 meters for free. If the player wants to move further, he makes an AGL check. If he succeeds, he'll move 30 meters. If he fails, he'll move only 20 meters (twice his normal rate).
+
 The character's hourly rate is for exploring on larger scale maps. It assumes a cautious pace. If a player wishes his character to increase his rate, he may make an END check. If he succeeds, he can double his hourly rate. If he fails, he moves his normal hourly rate.
 
-Melee Damage Modifier
+### Melee Damage Modifier
+
 When using melee weapons or bare hands, characters who are very strong will hurt their enemies more than characters who are very weak. Therefore, melee damage is modified by a character's Strength score according to the following table.
 
-Strength	Melee Damage Modifier
-01-05	-5
-06-15	-4
-16-25	-3
-26-35	-2
-36-45	-1
-46-55	+0
-56-65	+1
-66-75	+2
-76-85	+3
-86-95	+4
-96-105	+5
-Each +10	+1
+|Strength | Melee Damage Modifier |
+|:--|:---:|
+| 01-05	 | -5 |
+| 06-15	 | -4 |
+| 16-25	 | -3 |
+| 26-35	 | -2 |
+| 36-45	 | -1 |
+| 46-55	 | +0 |
+| 56-65	 | +1 |
+| 66-75	 | +2 |
+| 76-85	 | +3 |
+| 86-95	 | +4 |
+| 96-105 | 	+5 |
+| Each +10 | 	+1 |
+
+#
 Ranged Damage Modifier
 When using ranged weapons such as bows or firearms, characters who are very dextrous will hurt their enemies more than characters who are very uncoordinated, by hitting them more effectively. Therefore, ranged damage is modified by a character's Dexterity score according to the following table.
 
