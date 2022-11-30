@@ -1,6 +1,6 @@
 # d00 System SRD
 
-resued from https://web.archive.org/web/20120622021304/http://d00system.com/index.php?title=Main_Page
+rescued from https://web.archive.org/web/20120622021304/http://d00system.com/index.php?title=Main_Page
 
 This is the basic system reference document for the d00 System SRD. This is a core rules set for role-playing games based on a simple system using only ten-sided dice. Anyone can publish works derived from this system reference document, using the well-tested rules presented here, free of charge. It is only necessary that you credit DwD Studios and include the creative commons license found at the end of the links contained in the table of contents provided below.
 
@@ -236,28 +236,170 @@ When using melee weapons or bare hands, characters who are very strong will hurt
 | 96-105 | 	+5 |
 | Each +10 | 	+1 |
 
-#
-Ranged Damage Modifier
+### Ranged Damage Modifier
+
 When using ranged weapons such as bows or firearms, characters who are very dextrous will hurt their enemies more than characters who are very uncoordinated, by hitting them more effectively. Therefore, ranged damage is modified by a character's Dexterity score according to the following table.
 
-Dexterity	Ranged Damage Modifier
-01-05	-5
-06-15	-4
-16-25	-3
-26-35	-2
-36-45	-1
-46-55	+0
-56-65	+1
-66-75	+2
-76-85	+3
-86-95	+4
-96-105	+5
-Each +10	+1
-
-
-
-
+| Dexterity | Ranged Damage Modifier |
+|:--|:---:|
+| 01-05	 | -5 |
+| 06-15	 | -4 |
+| 16-25	 | -3 |
+| 26-35	 | -2 |
+| 36-45	 | -1 |
+| 46-55	 | +0 |
+| 56-65	 | +1 |
+| 66-75	 | +2 |
+| 76-85	 | +3 |
+| 86-95	 | +4 |
+| 96-105 | 	+5 |
+| Each +10 | 	+1 |
 
 # Fields of Study
+
+Any d00 game system has several fields of study. A field of study is a category of talent and training. Most games should have at least 4, and no upper limit exists. A field of study (sometimes abbreviated "FoS") organizes the skill list for the game. Within each field of study will be a list of skills (which are also broad in scope, see the skills section).
+
+There is no specified list that is core to d00 system SRD. The only fact which is "core" is that there must exist at least 4 fields of study.
+
+## Primary and Secondary Fields of Study
+
+Each character will have one field of study which is primary to his player's character concept. When calculating the skill score of any/all skills within a character's primary field of study, a bonus of +20 is applied.
+
+Depending on the number of fields of study used in the game/setting, the character may also have one or more fields of study which are secondary to his player's character concept. Skill scores for skills under a secondary field of study receive a bonus of +10. The number of secondary fields of study a character is given can be determined from the following guidelines:
+
+* In a game with 4 fields of study — characters have no secondary fields of study.
+* In a game with 5-6 fields of study — characters have 1 secondary field of study.
+* In a game with 7-8 fields of study — characters have 2 secondary fields of study.
+* In a game with 9-12 fields of study — characters have 3 secondary fields of study.
+* In a game with 13-16 fields of study — characters have 4 secondary fields of study.
+
+## Sample Field of Study List
+
+What follows is a sample field of study list (for a simple modern game setting). This is to serve as an example, and is not considered part of d00 system SRD. However, it is also not intellectual property claimed by DwD Studios so you may choose to use it or adapt it for any game derived from this SRD.
+
+* Combat: represents skills related to killing enemies and breaking things.
+* Science: represents skills related to scholarly and scientific knowledge and their application.
+* Technology: represents skills related to mechanics, electronics, computers, robotics, etc.
+* Outdoors: represents skills related to travel, animals, survival, and navigation.
+* Rogue: represents skills related to sneaking, stealing, forging, lock picking, shadowing, and other illicit activities.
+* Influence: represents skills related to persuasion in any of its many forms.
+* General: represents skills unrelated to the other categories but typical for common people.
+
+The skills which each of these sample fields include will be explained in the skills section. In this example, since the game would consist of 7 fields of study, characters would have 1 primary and 2 secondary fields of study to show their individual professional strengths.
+
+
 # Skills
+
+Each field of study must include a like number of specific skills, each no less helpful to an adventurer than the last. This balances the skill list so that selecting which field of study is Primary and Secondary doesn't become a game of min-maxing for the "best character."
+
+## Skill Level
+
+Skills have levels ranging from 1 to 6. Starting characters will likely only have a couple of level 1 skills. Skill levels have the following general meanings:
+
+* Level 1 - the character has a novice-level understanding of the skill.
+* Level 2 - the character has a journeyman-level understanding of the skill.
+* Level 3 - the character has a professional-level understanding of the skill.
+* Level 4 - the character has an expert-level understanding of the skill.
+* Level 5 - the character has an elite-level understanding of the skill.
+* Level 6 - the character is considered a master of the skill.
+
+## Skill Scores
+
+All skills will have an ability associated with it. For instance, a Stealth skill (as part of, for instance, a "Criminal" field of study) might be associated with AGL. Some skills will be broad in nature and it might be difficult to specify only a single ability, but when selecting a skill set for a d00-system game, select the ability that would most typically be used. For instance, a Medical skill might encompass surgery as well as medicine, but might specify LOG as the associated ability because most of the time the character would be using LOG with his skill. Sometimes, the associated ability can be selected by the player. For instance, a Wrestling skill might use a character's STR or AGL, whichever is highest. In any case, all skills will have an associated ability.
+
+To calculate a character's skill score, divide the associated ability by 2 and add 10 per skill level. If this skill falls within the character's Primary field of study, add +20. If it falls within a Secondary field of study, add +10. The final result is your character's skill score.
+
+`Ability/2 + 10xLevel +20 if Primary, +10 if Secondary`
+
+> For instance, a character's Acrobatics skill (as part of a "Fitness" field of study?) has AGL specified. The character has an AGL score of 55. The character is built with "Fitness" field of study as Secondary to his concept. The character has 2 levels in that skill. His skill score is AGL/2 +20 (for skill level) +10 (for secondary field of study) = 55/2+30 = 58%. The player records this on the character sheet as "Acrobatics, level 2, 58%".
+
+## Types of Skills
+
+There are four types of skills: Standard skills, Focus skills, Discipline skills, and Power skills. Each is handled somewhat differently. When designing skill lists for a d00 system game, it is important that you consider the game system, not try to make the "perfect skill list" (such doesn't exist).
+
+> For instance, if one game system (science fiction) technology might be important enough to the game that you would have robotics, computers, electronics, and mechanics all as separate skills under one "Technology" field of study. In another game with a different focus (perhaps a horror-based science fiction game) all of those might be blended together into one focus-based skill called "Tech" which might fall under a "White-collar" field of study. There is no fixed rule on this, and it is important to wed the skill list to the game system in a way that it compliments game play.
+
+### Standard Skill
+
+A standard skill is likely what most skills will be. It generally specifies a single task (or group of related tasks) into one single score. An example might be Marksman, which might fall under a "Soldier" field of study. It would represent a very specific type of action (for example, to shoot someone or something).
+
+### Focus Skill
+
+A focus skill is more categorical in nature. It has a list of focuses which categorically fall under the one skill. When you first acquire level 1 in a focus skill, you must select one of the listed focuses to narrow the definition of your character's expertise with that skill. You will be able to use that aspect of the skill at your listed skill score. Any other aspect of that skill (that is, trying to use another focus) is at a -20 penalty. Whenever you advance a level in a focus skill, you do not automatically receive another focus. You may, however, pay an extra +1DP (development point) when purchasing the new level in order to acquire another focus from that skill's list.
+
+> For example, a modern game might have a single skill called "Vehicle Operations" which falls under a field of study called "Technical". It might be a focus skill that includes the focuses: domestic vehicles, industrial vehicles, military vehicles, water vehicles, airplanes, jets, and helicopters. When your character purchases level 1 in Vehicle Operations, you might select "domestic vehicles" as your focus. Whenever you make a vehicle operations skill check to operate domestic vehicles, you roll against your normal skill score. If suddenly trying to operate a tank (a "military vehicle") you'd use your normal skill score -20. Later, when purchasing level 2 in the vehicle operations skill, you may spend an extra +1DP to also gain the focus "military vehicles" to no longer have -20 to operate military vehicles (now you can drive domestic and military vehicles with identical skill).
+
+When purchasing level 6 (the highest skill level), you can opt to spend +1DP and instead of gaining a new focus, you can instead state that your character is now a leading expert in the game world(s). This makes you eagerly sought after for performing actions of that type, a living legend for those who strive for such mastery.
+
+### Discipline Skill
+
+A discipline skill provides access to specific discrete abilities that all fall within the scope of a related skill. Similar in some ways to focus skills, but the abilities gained by each discipline are specific. Every level you attain (including first level) allows you to select another discipline (at no additional development point cost). Every discipline is a specific action you can take, an ability you can perform. Some disciplines might require skill checks, others just might give bonuses under specific circumstances.
+
+> For example, a game might have a "martial arts" skill which falls under a "combatant" field of study. It might be a discipline skill which includes the disciplines: kick, punch, elbow, knee, roll-with-the-punch, hammerfist, spinning kick, instant stand, and all-around-sight. Each of these disciplines would have a specific described effect. The "spinning kick" discipline might be described as "your character spins around for momentum and will cause double damage if he hits. However, if a successful spinning kick is defended against successfully by a dodge (see resistance checks) then your character is knocked on the ground prone and must spend a turn getting back up, unless he also has the 'instant stand' discipline."
+
+###Power Skill
+
+A power skill provides access to scalable abilities that relate to one skill, but a character has finite personal resources to fuel these abilities. Normally used only with mystical, supernatural, or magical powers. Individual game systems derived from the d00 System SRD may have their own subsystems for handling these special powers.
+
+
 # Character Development
+
+Character development in d00 System is simple. Development Points are awarded after each session, then spent before the beginning of the next, and represent individual growth and training. Unspent DP are accumulated and may be spent between sessions later.
+
+## Development Points
+
+Characters will earn Development Points (sometimes called "DP") for their efforts. These development points are earned at the end of a game session and are spent before the next (unless the GM determines some level of training is necessary).
+
+## Earning Development Points
+
+At the end of a game session, the GM goes through the following checklist with each player. One Development Point is awarded for each of these that apply. This will typically result in receiving 3-7 development points per session, with no more than 10DP being awarded.
+
+* **Survival –** All characters will earn this one. A character will receive one DP just for surviving the session. Even if he learned nothing, and did nothing. Just being around greatness can rub off.
+* **Ability –** if a character made an ability check during the session, the player will be awarded one DP. This is to represent physical and mental development. Of course, the player doesn’t have to spend that DP on that ability.
+* **Skill –** Players get an additional DP if they made a skill check at some point during the session. It doesn’t matter if that skill check resulted in success or failure. Testing knowledge and training will result in excellence.
+* **Discovery –** Characters earn one DP if the player can say one previously unknown thing that his character learned about the setting or its people. Players can be creative here, but the purpose of this award is twofold: first, it allows a character to grow based on knowledge as well as practice. Second, it helps a player summarize in his mind something about the game setting, helping him to gain a better picture of it in his mind.
+* **Role-playing –** Players are awarded one DP if they role-played their character well. This is determined by the GM. The more solid a character concept and background story, the more likely a player should get this award. This award shouldn’t be given out lightly; rather, it should be given if a character loses out on something or takes on additional complexities just to stay in character, when violating a character concept would have been easier and/or more beneficial.
+* **Innovation –** If the player's character faced non-combat obstacles (such as security devices, pits, puzzles, etc.) that required creativity in overcoming, the player should receive get an additional DP. This shouldn’t be given freely just because some obstacle existed; it should be given to reward characters for coming up with an innovative solution to an obstacle.
+* **Notoriety –** legends are made by people telling tales, not by the deeds themselves. People tend to try to live up to the tales told about them, and it is sometimes the carrot that leads a donkey to greatness. If a character saved innocent people, overcame obstacles in a manner that onlookers will remember, or allowed enemies to live on to spread the tales of his toughness, your character will be awarded one DP. It doesn’t matter if the notoriety he gained is in the form of fame or infamy (all press is good press?)
+* **Personal –** if a character had a personal stake in the adventure (it centered around family members, friends, contacts, etc.) then the character will gain an extra DP. This shouldn’t be given out freely; this award is to represent those rare adventure sessions where players find themselves extremely wrapped up in the story because of how it directly affects the development of his or her character’s concept.
+* **Victory –** Any character who engaged in combat of any type against enemy creatures, robots, or people and lived to tell the tale are awarded one DP.
+* **Success –** If this session had a main mission or story goal (determined by the GM) and the characters were successful, each receives one DP. Success of a mission isn’t any more heavily weighted than using skills or abilities or surviving the session.
+
+## Spending Development Points
+
+Development Points can be accumulated and spent to increase ability scores and skill levels. These rules are core to games derived from d00 System SRD, though customization may exist from game to game to fit a desired genre.
+
+### Ability Score Development
+
+Each development point spent on an ability increases that ability by a certain amount, depending on its current value. This is determined using the table below:
+
+| Current Score | Development Point Cost               |
+|:---:|:---|
+| Up to 25 | 1DP raises the ability score by +4 |
+| 26 to 45 | 1DP raises the ability score by +2 |
+| 46 to 55 | 1DP raises the ability score by +1 |
+| 56 to 75 | 2DP raises the ability score by +1 |
+| 76 to 100 | 3DP raises the ability score by +1 |
+| 101 to 125 | 5DP raises the ability score by +1 |
+| each +25 | +2DP to raise the ability score by +1 |
+
+### Skill Level Development
+
+You may also choose to spend your development points improving your skill levels. The cost of developing skill levels can be found in the following table:
+
+| Skill Level | Development Point Cost |
+|:---:|:---|
+| Level 1 | 3 DP |
+| Level 2 | 6 DP |
+| Level 3 | 9 DP |
+| Level 4 | 12 DP |
+| Level 5 | 15 DP |
+| Level 6 | 18 DP |
+
+You may not skip levels. If you are unskilled and wish to gain skill levels, you must purchase level 1. If your skill is already rated at level 1 and you wish to improve it, you purchase level 2 (even if you have enough development points saved up to raise it to level 3). Although you cannot skip levels, you can increase multiple skills a single level each. In this way your character grows to legendary ability.
+
+**Skill development maximum –** No skill may be increased beyond level 6. A skill may not be improved twice after the same game session, though more than one skill could be improved.
+
+**Focus skills –** some skills are noted as focus skills. The first level of a focus skill automatically allows the character to have one area of focus. Each additional level, the character may – if the player wishes – purchase another area of focus by paying one extra development point. Any actions involving an area of focus use the full skill success rate. Any action involving uses of the skill outside the character’s area of focus applies a -20 penalty.
+
+**Discipline skills –** some skills are noted as discipline skills. At first level and each level thereafter, a character automatically receives one discipline from that skill’s list. There is no development point cost for this discipline.
