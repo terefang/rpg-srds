@@ -87,6 +87,7 @@
 * Black Spear RPG System Resource Document -- https://www.drivethrurpg.com/product/320985/IronSpike--System-Resource-Document-and-Compatibility-License-for-Black-Spear
 * Mark of the Odd (MOTO SRD) -- https://drive.google.com/drive/folders/1C3PgdyvIFf0YdDl-cXpsM_Fr_Vivw5Yj
 * Lost & Found Solo System SRD -- https://srd.mousehole.press/
+* Personae and Shadowlight -- https://craighatler.itch.io/
 
 ## TODO
 
