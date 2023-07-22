@@ -90,6 +90,7 @@
 * Mark of the Odd (MOTO SRD) -- https://drive.google.com/drive/folders/1C3PgdyvIFf0YdDl-cXpsM_Fr_Vivw5Yj
 * Lost & Found Solo System SRD -- https://srd.mousehole.press/
 * Personae and Shadowlight -- https://craighatler.itch.io/
+* YASS — Yet Another Single Sheet SRD -- https://www.drivethrurpg.com/product/446346/YASS-Yet-Another-Single-Sheet-SRD
 
 ## TODO
 
