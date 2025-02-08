@@ -9,9 +9,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Bare-Bone-Lite-d100" target="1.5" />
       <module name="Bare-Bone-Lite-d6" target="1.5" />
-      <module name="rpg-srds" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

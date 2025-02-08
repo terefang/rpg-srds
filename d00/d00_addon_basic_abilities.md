@@ -50,3 +50,5 @@ Ability Score = `Roll × 4`
 Point Buy ! – spread 90 points across all eight attributes according to your preference, 
 then lookup the points on the table for Option 1.
 
+For the Lite variant use 45 points.
+

@@ -43,7 +43,8 @@
 * D6 Core -- https://d6core.com/
 * WaRP SRD -- https://www.atlas-games.com/otelegacy#warped/
 * Six-Sided Fantasy Reference Document -- http://sycarion.com/static/sixsidedf.html
-* Year Zero Engine SRD -- http://frank-mitchell.com/rpg/year-zero-engine-ogl/
+* Year Zero Engine SRD 2020/OGL-- http://frank-mitchell.com/rpg/year-zero-engine-ogl/
+* Year Zero Engine SRD 2023//FTL -- https://freeleaguepublishing.com/wp-content/uploads/2023/03/YZE-Standard-Reference-Document.pdf
 * Sixtacular System Reference Document (free) -- https://www.drivethrurpg.com/product/233609/Sixtacular-SRD-10
 
 ## 2d6 SRDs
