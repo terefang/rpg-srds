@@ -23,7 +23,6 @@
 ## d100 SRDs
 
 * BRP SRD -- https://www.drivethrurpg.com/product/307977/BRP-SRD--Editable
-* BRP/UGE w/ORC License -- https://www.drivethrurpg.com/product/431991/Basic-Roleplaying-Universal-Game-Engine
 * RuneQuest SRD -- http://b5quest.pbworks.com/f/MRQ-SRD.pdf
 * QuestWorlds SRD -- https://www.chaosium.com/questworlds-system-reference-document/
 * RetroQuest II SRD -- https://viletraveller.files.wordpress.com/2012/01/d100ii_srd_1_3.doc
@@ -69,7 +68,6 @@
 
 ## Other SRDs
 
-* 2d20 SRD -- https://www.drivethrurpg.com/product/403658/2d20-System-Reference-Document
 * Action! System OGL Core -- http://www.sycarion.com/rpg-downloads/action-system-files/
 * Drama System -- http://site.pelgranepress.com/index.php/dramasystem-srd/
 * Gumshoe -- http://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/
@@ -91,10 +89,9 @@
 * Mark of the Odd (MOTO SRD) -- https://drive.google.com/drive/folders/1C3PgdyvIFf0YdDl-cXpsM_Fr_Vivw5Yj
 * Lost & Found Solo System SRD -- https://srd.mousehole.press/
 * Personae and Shadowlight -- https://craighatler.itch.io/
-* YASS — Yet Another Single Sheet SRD -- https://www.drivethrurpg.com/product/446346/YASS-Yet-Another-Single-Sheet-SRD
-* PushSRD — https://capacle.itch.io/push
 
 ## TODO
 
 integrate missing ones from https://www.tenkarstavern.com/p/f.html
+and https://opengamingnetwork.com/
 
