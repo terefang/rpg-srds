@@ -19,6 +19,7 @@
 * Open Legend SRD -- https://openlegendrpg.com/ and https://github.com/openlegend/core-rules
 * Anime d20 — System Reference Document v1.0 -- http://www.opengamingfoundation.org/animesrd/Ability_Scores.htm
 * The Arcanum 30th Anniversary Edition SRD -- http://zila-games.com/arcanum/
+* The Cypher System SRD -- https://csol.montecookgames.com/license/
 
 ## d100 SRDs
 
